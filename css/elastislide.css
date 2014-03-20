@@ -1,0 +1,13 @@
+/* Elastislide Style */
+.es-carousel-wrapper {position: relative; padding: 0;}
+.es-carousel {overflow:hidden;}
+.es-carousel ul {display:none;}
+.es-carousel ul li {width: 154px; height: 100%; float: left; display: block;}
+.es-carousel ul li a {display: block; position: relative; width: 154px; /*opacity: 0.8;*/ padding: 0; margin: 0;}
+.es-carousel ul li.selected a {opacity: 1.0;}
+.es-carousel ul li a img {display: block; border: none; width: 100%; max-height: 100%; max-width: 100%; padding: 0; margin: 0;}
+.es-carousel ul li a span {visibility: hidden; position: absolute; bottom: 0; left: 0; font: 400 13px/17px 'Open Sans', sans-serif; color: #fff; text-shadow: 1px 1px #000; text-transform: uppercase; padding: 0 0 5px 10px;}
+.es-carousel ul li a:hover span {visibility: visible;}
+.es-nav span {position:absolute; top: 50%; left: 8px; background: transparent url(../img/nav_thumbs.png) no-repeat top left; width: 14px; height: 26px; margin-top: -13px; text-indent: -9000px; cursor: pointer; opacity: 0.8;}
+.es-nav span.es-nav-next {right: 8px; left: auto; background-position: top right;}
+.es-nav span:hover {opacity: 1.0;}

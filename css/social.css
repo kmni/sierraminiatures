@@ -1,0 +1,32 @@
+ul#facebook {list-style-type: none; padding: 0; margin: 0;}
+#facebook li {word-wrap: break-word; display: block; width: 49%; background: #302b22 url(../img/bg_facebook_footer.jpg) left bottom repeat-x; border-radius: 3px; box-shadow: 1px 2px 2px -1px #888; padding: 0; margin-bottom: 20px;}
+#facebook li a {color: #098323; text-decoration: underline;}
+#facebook li a:hover {text-decoration: none;}
+#facebook li .content {font: normal 16px/20px 'Open Sans', sans-serif; color: #3e392f; background: #b9ae99; border-radius: 3px; padding: 4px 4px 14px 4px; margin: 0;}
+#facebook li .content p {padding: 16px 18px 0 18px; margin: 0;}
+#facebook li div.footer {font: bold 14px/18px 'Open Sans', sans-serif; color: #fff; padding: 6px 10px 8px 22px;}
+#facebook li div.footer a.author {color: #fff; text-decoration: underline; margin: 0;}
+#facebook li div.footer abbr {color: #fff; padding: 0; margin: 0;}
+#facebook li a.image {display: block; text-align: center; text-decoration: none; margin: 0 10px 0 0;}
+#facebook li div.link {padding: 5px 18px 0 18px;}
+#facebook li div.picture {text-align: right;}
+#facebook li.loading {width: 100%; max-width: 100%; background: none; border-radius: 0; box-shadow: none; text-align: center; padding: 0; margin: 0 0 50px 0;}
+@media (max-width: 775px) {
+	#facebook li {float: none; width: 100%;}
+}
+
+
+ul#facebook_short {padding: 0; margin: 0;}
+#facebook_short li {display: block; width: 100%;}
+#facebook_short li.loading {text-align: center;}
+#facebook_short li.latest_news_item {margin-bottom: 8px;}
+#facebook_short li.latest_news_item small {color: #000; font-size: 12px;}
+#facebook_short li.latest_news_item p {font-size: 14px;}
+#facebook_short li.latest_news_item p a {color: #3e392f; text-decoration: none;}
+#facebook_short li.latest_news_item p a:hover {text-decoration: underline;}
+#facebook_short li.latest_news_item img {width: 85px; overflow: hidden; margin-right: 10px; box-shadow: 0 5px 5px -4px #000;}
+
+ul#facebook_albums {display: block; list-style-type: none; padding: 0; margin: 0;}
+#facebook_albums li {display: block; float: left; width: 243px; text-align: center; padding-bottom: 10px;}
+#facebook_albums a {color: #B25432; text-decoration: underline;}
+#facebook_albums a.image {display: block; text-decoration: none;}
