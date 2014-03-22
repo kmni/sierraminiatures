@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Social media - Sierra Miniature Horses</title>
+    <!-- TemplateEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <link href="../css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="../js/colorbox/colorbox.css" rel="stylesheet">
+    <link href="../css/custom.css" rel="stylesheet">
+    <link href="../css/social.css" rel="stylesheet">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+    <div id="header">
+        <div class="container">
+            <div id="logo">
+                <a href="/" title=""><img src="../img/logo.png" alt="" /></a>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="content">
+        <div class="container">
+            <div class="row-fluid">
+                <div class="leftcol">
+                    <div class="nav">
+                        <select class="mobile_navi">
+                            <option value="0">MENU</option>
+                            <option value="./about-us.html" selected>About us</option>
+                            <option value="./training.html">- Training</option>
+                            <option value="./tikis-story.html">- Tiki's story</option>
+                            <option value="./our-special-animals.html">- Our special animals</option>
+                            <option value="./stallions.html">Stallions</option>
+                            <option value="./show-horses.html">Show horses</option>
+                            <option value="./sale-horses.html">Sale horses</option>
+                            <option value="./stallions-colts.html">- Stallions & Colts</option>
+                            <option value="./mares-fillies.html">- Mares & Fillies</option>
+                            <option value="./geldings.html">- Geldings</option>
+                            <option value="./aussie-pups.html">Aussie pups</option>
+                            <option value="./phaesants.html">Phaesants</option>
+                            <option value="./pigeons.html">Pigeons</option>
+                            <option value="./judging.html">Judging</option>
+                            <option value="./news-events.html">News & Events</option>
+                            <option value="./news-feed.html">- News feed</option>
+                            <option value="./social-media.html" selected>- Social media</option>
+                            <option value="./contact-us.html">Contact us</option>
+                            <option value="./links.html">- Links</option>
+                        </select>
+                    </div>
+                    <ul class="nav nav-list clearfix" id="top_navi">
+                        <li class="has_children">
+                            <a href="../about-us.html" title="About us"><span>About us</span></a>
+                            <ul>
+                                <li><a href="../training.html" title="Training">Training</a></li>
+                                <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
+                                <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../stallions.html" title="Stallions">Stallions</a></li>
+                        <li><a href="../show-horses.html" title="Show horses">Show horses</a></li>
+                        <li class="has_children">
+                            <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                            <ul>
+                                <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
+                                <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
+                                <li><a href="../geldings.html" title="Geldings">Geldings</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../aussie-pups.html" title="Aussie pups">Aussie pups</a></li>
+                        <li><a href="../phaesants.html" title="Phaesants">Phaesants</a></li>
+                        <li><a href="../pigeons.html" title="Pigeons">Pigeons</a></li>
+                        <li><a href="../judging.html" title="Judging">Judging</a></li>
+                        <li class="has_children expanded">
+                            <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                            <ul>
+                                <li><a href="../news-feed.html" title="News feed">News feed</a></li>
+                                <li class="active"><a href="../social-media.html" title="Social media">Social media</a></li>
+                            </ul>
+                        </li>
+                        <li class="last has_children">
+                            <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
+                            <ul>
+                                <li><a href="../links.html" title="Links">Links</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div> <!--// .leftcol -->
+                <div class="contentcol">
+                    <div class="text">
+                        <h1><span>NEWS</span></h1>
+                        <!-- Facebook BEGIN -->
+                        <ul id="facebook">
+                            <li class="loading"><img src="../img/ajax-loader.gif" alt="Loading ..." width="24" height="24"><br>Loading…</li>
+                        </ul>
+                        <!-- Facebook END -->
+                    </div> <!--// .text -->
+                </div> <!--// .contentcol -->
+            </div> <!--// .row-fluid -->
+        </div> <!--// .container -->
+    </div> <!--// #content -->
+
+    <div id="footer">
+        <div class="container">
+            <div class="navi clearfix">
+                <select class="mobile_navi">
+                    <option value="0">MENU</option>
+                    <option value="./about-us.html" selected>About us</option>
+                    <option value="./training.html">- Training</option>
+                    <option value="./tikis-story.html">- Tiki's story</option>
+                    <option value="./our-special-animals.html">- Our special animals</option>
+                    <option value="./stallions.html">Stallions</option>
+                    <option value="./show-horses.html">Show horses</option>
+                    <option value="./sale-horses.html">Sale horses</option>
+                    <option value="./stallions-colts.html">- Stallions & Colts</option>
+                    <option value="./mares-fillies.html">- Mares & Fillies</option>
+                    <option value="./geldings.html">- Geldings</option>
+                    <option value="./aussie-pups.html">Aussie pups</option>
+                    <option value="./phaesants.html">Phaesants</option>
+                    <option value="./pigeons.html">Pigeons</option>
+                    <option value="./judging.html">Judging</option>
+                    <option value="./news-events.html">News & Events</option>
+                    <option value="./news-feed.html">- News feed</option>
+                    <option value="./social-media.html" selected>- Social media</option>
+                    <option value="./contact-us.html">Contact us</option>
+                    <option value="./links.html">- Links</option>
+                </select>
+                <ul class="col1">
+                    <li class="has_children">
+                        <a href="../about-us.html" title="About us"><span>About us</span></a>
+                        <ul>
+                            <li><a href="../training.html" title="Training">Training</a></li>
+                            <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
+                            <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../stallions.html" title="Stallions">Stallions</a></li>
+                    <li><a href="../show-horses.html" title="Show horses">Show horses</a></li>
+                </ul>
+                <ul class="col2">
+                    <li class="has_children">
+                        <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                        <ul>
+                            <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
+                            <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
+                            <li><a href="../geldings.html" title="Geldings">Geldings</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="col3">
+                    <li><a href="../aussie-pups.html" title="Aussie pups">Aussie pups</a></li>
+                    <li><a href="../phaesants.html" title="Phaesants">Phaesants</a></li>
+                    <li><a href="../pigeons.html" title="Pigeons">Pigeons</a></li>
+                    <li><a href="../judging.html" title="Judging">Judging</a></li>
+                </ul>
+                <ul class="col4">
+                    <li class="has_children">
+                        <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                        <ul>
+                            <li><a href="../news-feed.html" title="News feed">News feed</a></li>
+                            <li><a href="../social-media.html" title="Social media">Social media</a></li>
+                        </ul>
+                    </li>
+                    <li class="last has_children">
+                        <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
+                        <ul>
+                            <li><a href="../links.html" title="Links">Links</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div> <!--// .navi -->
+            <div class="contacts">
+                <p>Sierra Ranch<br>Phone: (530) 268-0568<br>16242 Tierra Road, Grass Valley, CA 95949<br>Steve & Kim Sterchi, Owners</p>
+            </div> <!--// .contacts -->
+            <div class="author">&copy; designed by <a href="http://www.minihorses.net" title="website designed by minihorses.net" target="_blank">minihorses.net</a></div>
+        </div>
+    </div>
+
+    <script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/colorbox/jquery.colorbox-min.js"></script>
+    <script src="../js/hju.js"></script>
+
+    <script src="../js/jquery.autolink.js"></script>
+    <script src="../js/jquery.timeago.js"></script>
+    <script src="../js/jquery.tmpl.min.js"></script>
+    <script src="../js/twitter-text.js"></script>
+    <script src="../js/social.js"></script>
+    <script src="../js/masonry.pkgd.min.js"></script>
+    <script src="../js/jquery.imagesloaded.min.js"></script>
+
+    <script id="facebook_template" type="text/x-jquery-tmpl">
+      {{if type != "status" || typeof message != "undefined" || typeof caption != "undefined" }}
+      <li>
+        <div class="content">
+            {{if picture}}
+              <a class="image" href="${link}" target="_blank"><img alt="picture" src="${Social.facebookPictureURL(picture)}"></a>
+            {{/if}}
+            {{if message}}
+            <p class="html_message">{{html message}}</p>
+            {{/if}}
+            {{if caption}}
+            <p class="html_caption">{{html caption}}</p>
+            {{/if}}
+            {{if type == "link"}}
+            <div class="link">
+              <a href="${link}" target="_blank"><strong>${name}</strong></a> <i>${caption}</i>
+              {{if description}}
+                <p>${description}</p>
+              {{/if}}
+            </div> <!--// .link -->
+            {{/if}}
+        </div> <!--// .content -->
+        <div class="footer">
+          Posted <span class="fb_date" title="${created_time}">${created_time}</span> on <a class="author" href="http://www.facebook.com/profile.php?id=${from.id}" target="_blank">Facebook</a> 
+        </div> <!--// .footer -->
+      </li>
+      {{/if}}
+    </script>
+    <script>
+        // "103882419703669" is Facebook page ID
+        // "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck" is Facebook authentication token
+        Social.facebook("176971642349584", "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck");
+    </script>
+    
+  </body>
+</html>

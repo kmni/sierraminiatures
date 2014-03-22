@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Tiki's story - Sierra Miniature Horses</title>
+    <!-- TemplateEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <link href="../css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="../js/colorbox/colorbox.css" rel="stylesheet">
+    <link href="../css/custom.css" rel="stylesheet">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+    <div id="header">
+        <div class="container">
+            <div id="logo">
+                <a href="/" title=""><img src="../img/logo.png" alt="" /></a>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="content">
+        <div class="container">
+            <div class="row-fluid">
+                <div class="leftcol">
+                    <div class="nav">
+                        <select class="mobile_navi">
+                            <option value="0">MENU</option>
+                            <option value="./about-us.html">About us</option>
+                            <option value="./training.html">- Training</option>
+                            <option value="./tikis-story.html" selected>- Tiki's story</option>
+                            <option value="./our-special-animals.html">- Our special animals</option>
+                            <option value="./stallions.html">Stallions</option>
+                            <option value="./show-horses.html">Show horses</option>
+                            <option value="./sale-horses.html">Sale horses</option>
+                            <option value="./stallions-colts.html">- Stallions & Colts</option>
+                            <option value="./mares-fillies.html">- Mares & Fillies</option>
+                            <option value="./geldings.html">- Geldings</option>
+                            <option value="./aussie-pups.html">Aussie pups</option>
+                            <option value="./phaesants.html">Phaesants</option>
+                            <option value="./pigeons.html">Pigeons</option>
+                            <option value="./judging.html">Judging</option>
+                            <option value="./news-events.html">News & Events</option>
+                            <option value="./news-feed.html">- News feed</option>
+                            <option value="./social-media.html">- Social media</option>
+                            <option value="./contact-us.html">Contact us</option>
+                            <option value="./links.html">- Links</option>
+                        </select>
+                    </div>
+                    <ul class="nav nav-list clearfix" id="top_navi">
+                        <li class="has_children expanded">
+                            <a href="../about-us.html" title="About us"><span>About us</span></a>
+                            <ul>
+                                <li><a href="../training.html" title="Training">Training</a></li>
+                                <li class="active"><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
+                                <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../stallions.html" title="Stallions">Stallions</a></li>
+                        <li><a href="../show-horses.html" title="Show horses">Show horses</a></li>
+                        <li class="has_children">
+                            <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                            <ul>
+                                <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
+                                <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
+                                <li><a href="../geldings.html" title="Geldings">Geldings</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../aussie-pups.html" title="Aussie pups">Aussie pups</a></li>
+                        <li><a href="../phaesants.html" title="Phaesants">Phaesants</a></li>
+                        <li><a href="../pigeons.html" title="Pigeons">Pigeons</a></li>
+                        <li><a href="../judging.html" title="Judging">Judging</a></li>
+                        <li class="has_children">
+                            <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                            <ul>
+                                <li><a href="../news-feed.html" title="News feed">News feed</a></li>
+                                <li><a href="../social-media.html" title="Social media">Social media</a></li>
+                            </ul>
+                        </li>
+                        <li class="last has_children">
+                            <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
+                            <ul>
+                                <li><a href="../links.html" title="Links">Links</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div> <!--// .leftcol -->
+                <div class="contentcol">
+                    <div class="text">
+                        <img src="../img/tiki/tiki-01-400x258.jpg" alt="Tiki" width="400" height="258" class="span_bottom">
+                        <h1>How our life with Tiki began...</h1>
+                        <p>It was Father's Day June 1992. I was heading in from the horse's pasture when I saw the dust rising from the truck's tires. Steve was coming down the road faster than normal. I hurried up the drive to meet him. As the truck engulfed in the cloud of dust neared, I could see something in the front seat with Steve. He was holding it in his arms but I couldn't quite make it out. It couldn't be a new puppy, could it? I ran to the truck to see what the surprise was. As he rolled to a stop my heart began to pound. I jumped up on to the running board and peered in to the window. I couldn't believe my eyes. In Steve's arms was the most beautiful creature I had ever seen. It was a very tiny Fawn, full of spots.</p>
+                        <p>I had never seen such a small Fawn. I held back my screams of delight so I wouldn't scare her but I was so excited to see such a delicate, beautiful animal.</p>
+                        
+                        <img src="../img/tiki/tiki-02-288x248.jpg" alt="Tiki 02" width="288" height="248" class="span_bottom">
+                        &nbsp;&nbsp;
+                        <img src="../img/tiki/tiki-03-288x248.jpg" alt="Tiki 03" width="288" height="248" class="span_bottom">
+                        
+                        <p>As I took the precious bundle from his arms he explained that he had found her down by the mail boxes and her mother lay dead in the road, hit by a car. She could only be hours old for her umbilical cord was still fresh. I took her into the house and laid her on a blanket and immediately called my Vet. He was not very encouraging and told me her chances of survival were next to none.</p>
+                        <p>Of course that didn't deter me and my next phone call was to a neighbor that had milking goats. Yes, they had some colostrum and plenty of fresh goats milk. As I heated her first meal I could barely take my eyes off her. She had to be the most wonderful creature I had ever seen. So tiny, so delicate. She took her first bottle with some fuss but soon got used to it. It wasn't long before she was a pro at downing that bottle. We decided to call her "Tiki".</p>
+                        <p>She slept with us at night and followed me during the day. I heated her bottle in the microwave and it wasn't long before she new when that microwave "dinged" her bottle was ready and Tiki would stand on her hind legs looking at the oven until we retrieve her bottle. We were inseparable that summer and spent all our time together. Tiki was house broken the first day and quite comfortable laying on the couch or bed. She traveled with us in the front seat of the truck if we had to go anywhere. As Tiki grew she began to loose her spots and they were replaced by a soft brown coat. Whatever I did or where ever I would go, Tiki followed.</p>
+                        <p>As she grew older I wondered if she would want to wander off. Much to my delight, she had no intentions of going anywhere. I gave her a red collar that Christmas with her name tag on it. This became a tradition and every Christmas she would get a new bright red collar so the hunters could see it clearly. When she got to big for the house she slept under our bedroom window and would greet me in the morning and follow me to the barn for the day.</p>
+                        <p>When she turned two, she had her first set of fawns. The buck had come to her the previous Nov. The breeding season was quite interesting. Several bucks of all sizes would come right in to the yard courting her. Tiki would wait till the big guy showed up and then would lay with him in the yard for several days. The big guy would then disappear till the following Nov. Come June Tiki would have another set of twins. Although Tiki never got wild in any sense of the word she would only let her babies come to visit and discouraged them from becoming to friendly. That was fine with us. One deer that felt free to enter the house anytime the door was open was enough for us. Tiki was friendly with everyone and anyone could pet her. Even when we would have huge crowds of people here,Tiki would make herself at home in the middle of them. It seemed as natural to have Tiki laying on the front porch as it did the dogs. As the years went by our deer population increased. We knew they were all related to Tiki.</p>
+                        <p>One year when Tiki had just had one fawn she suddenly came in with another very scruffy much smaller second fawn. I knew this baby was not hers but she was defiantly adopting it. It seems one of Tiki's daughters had a set of twins and one was very poor and the mother abandon it. Well, Tiki just took it in and raise it with her own. That was truly amazing. We called the little feller Scruffy and Scruffy grew up to be the most handsome buck you ever saw. When Tiki was 9 she came hobbling in with a broken back leg. It literally was broken in half and dangled in a sickening way. I thought this would be the end for poor Tiki. My vet said she would have to undergo surgery, have the leg pinned and kept locked up in a very small place for a long time. I knew this couldn't happen. Tiki wasn't wild but she had never been confined and I felt she would hurt herself more if I tried. But the coyotes would be sure to take her down. Tiki was amazing. She didn't leave the yard while she was injured and when she would go to lay down she would throw her back leg forward laying the leg straight and there she would lay for hours. You could soon tell that the leg was healing and it wasn't long before she started to use it again. The leg mended so well that she didn't even end up with a limp. Although you could tell where it had been broke it never seemed to bother her again.</p>
+                        <p>To have Tiki as a companion all these years was a wonder. She was free to go anywhere she wanted but choose to stay here on the ranch, mostly by the barn or by our bedroom window.</p>
+                        <p>Last Feb. Tiki injured her shoulder and was clearly in pain. I had a chiropractor work on her and my Vet examined her. Unfortunately Tiki was now 14 years and old age had crept up on her. I knew she was caring one more Fawn but couldn't see how she could carry it to term in her condition. She did however and on Father's Day she produced her last fawn, a precious little girl we call Tutu.</p>
+                        <p>This time however instead of Tiki teaching her fawn the ways of the wild, she brought her into the barn everyday and taught her how to tolerate the dogs, where to find her morning grain and that I was her friend. As the months slowly passed by Tiki's condition worsened and I knew she didn't have much time left with us. She stayed close by and Tutu stayed by her side. Tiki's favorite treat was grapes and every few days I would go to the store and load up on grapes. I would get the strangest looks when they saw 6 to 8 bags of grapes in my cart. Tiki would eat them all. The weight was falling off of her and her eyes told me that time was running out. I knew Tutu was to young to be on her own but she was not the same as Tiki and I knew she needed to be wild and free. There was no way Tutu could make it on her own. Then Ophir, Tiki's daughter born in 2004, Cinco, Tiki's daughter born in 2005 and Sticks, Ophir's daughter started coming to the barn everyday and laying near Tiki. They new Tiki was ill and they were there to comfort her. The weather was changing and the leaves were falling there was a chill in the air. Everyday Ophir, Cinco and Sticks would come in a visit for a while before heading out into the woods. Tiki would manage to eat her grapes every morning but didn't eat much else. I knew winter was just around the corner and I bedded Tiki and Tutu's shelter with lots of straw. Then one day Tiki didn't get up. She looked at me with those big doe eyes and said it was time to move on into another world. I held her and stroked her fur late into the night not wanting to let go. She held on till early morning and then slipped away. My heart ripped open and the pain flowed. I looked at Tutu's sad eyes and knew she was aware that her mother was gone. I sat there with tears soaking my face and wondering what would happen to little Tutu.</p>
+                        <p>As the sun came up, quietly Ophir, Cinco and Sticks appeared. I let them have some time with Tiki and then to my amazement as they began to wander off they encouraged Tutu to join them. Tutu was hesitant to leave her mother but Ophir with much patience waited for her. I couldn't believe what was happening. Tutu finally followed the other deer. Now every morning Ophir, Cinco, Sticks and Tutu come in for their grain and Tutu comes up to me for her little bit of scratching and petting and then wanders off with the small group. She is going to be just fine.</p>
+                        <p>After we buried Tiki we saw the most amazing sight. More deer than we had ever seen before, at least 20 of them were grazing near Tiki's grave. It was an unbelievable sight.</p>
+                        <p>&nbsp;</p>
+                        <p>sire: Just Bronco 28.50”<br>dam: Sierra Golds Dances With Wind 28.50”</p>
+                    </div> <!--// .text -->
+                </div> <!--// .contentcol -->
+            </div> <!--// .row-fluid -->
+        </div> <!--// .container -->
+    </div> <!--// #content -->
+
+    <div id="footer">
+        <div class="container">
+            <div class="navi clearfix">
+                <select class="mobile_navi">
+                    <option value="0">MENU</option>
+                    <option value="./about-us.html">About us</option>
+                    <option value="./training.html">- Training</option>
+                    <option value="./tikis-story.html" selected>- Tiki's story</option>
+                    <option value="./our-special-animals.html">- Our special animals</option>
+                    <option value="./stallions.html">Stallions</option>
+                    <option value="./show-horses.html">Show horses</option>
+                    <option value="./sale-horses.html">Sale horses</option>
+                    <option value="./stallions-colts.html">- Stallions & Colts</option>
+                    <option value="./mares-fillies.html">- Mares & Fillies</option>
+                    <option value="./geldings.html">- Geldings</option>
+                    <option value="./aussie-pups.html">Aussie pups</option>
+                    <option value="./phaesants.html">Phaesants</option>
+                    <option value="./pigeons.html">Pigeons</option>
+                    <option value="./judging.html">Judging</option>
+                    <option value="./news-events.html">News & Events</option>
+                    <option value="./news-feed.html">- News feed</option>
+                    <option value="./social-media.html">- Social media</option>
+                    <option value="./contact-us.html">Contact us</option>
+                    <option value="./links.html">- Links</option>
+                </select>
+                <ul class="col1">
+                    <li class="has_children">
+                        <a href="../about-us.html" title="About us"><span>About us</span></a>
+                        <ul>
+                            <li><a href="../training.html" title="Training">Training</a></li>
+                            <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
+                            <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../stallions.html" title="Stallions">Stallions</a></li>
+                    <li><a href="../show-horses.html" title="Show horses">Show horses</a></li>
+                </ul>
+                <ul class="col2">
+                    <li class="has_children">
+                        <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                        <ul>
+                            <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
+                            <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
+                            <li><a href="../geldings.html" title="Geldings">Geldings</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="col3">
+                    <li><a href="../aussie-pups.html" title="Aussie pups">Aussie pups</a></li>
+                    <li><a href="../phaesants.html" title="Phaesants">Phaesants</a></li>
+                    <li><a href="../pigeons.html" title="Pigeons">Pigeons</a></li>
+                    <li><a href="../judging.html" title="Judging">Judging</a></li>
+                </ul>
+                <ul class="col4">
+                    <li class="has_children">
+                        <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                        <ul>
+                            <li><a href="../news-feed.html" title="News feed">News feed</a></li>
+                            <li><a href="../social-media.html" title="Social media">Social media</a></li>
+                        </ul>
+                    </li>
+                    <li class="last has_children">
+                        <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
+                        <ul>
+                            <li><a href="../links.html" title="Links">Links</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div> <!--// .navi -->
+            <div class="contacts">
+                <p>Sierra Ranch<br>Phone: (530) 268-0568<br>16242 Tierra Road, Grass Valley, CA 95949<br>Steve & Kim Sterchi, Owners</p>
+            </div> <!--// .contacts -->
+            <div class="author">&copy; designed by <a href="http://www.minihorses.net" title="website designed by minihorses.net" target="_blank">minihorses.net</a></div>
+        </div>
+    </div>
+
+    <script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/colorbox/jquery.colorbox-min.js"></script>
+    <script src="../js/hju.js"></script>
+    
+  </body>
+</html>
