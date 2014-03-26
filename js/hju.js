@@ -1,3 +1,4 @@
+
 var hju	= {
 	mobileNavi:	function(){
 		if ($('.mobile_navi').length)
@@ -71,7 +72,7 @@ var hju	= {
 			$cycleSlideshow	= $('.cycle-slideshow');
 			$slideshow		= $('.slideshow');
 			$cycleSlideshow.imagesLoaded(function(){
-	        	$slideshow.cycle({fx: 'fadeout', timeout: 1000, log: false}).cycle('pause').hover(function(){$(this).cycle('resume'); console.log('run slideshow')}, function(){$(this).cycle('pause'); console.log('pause slideshow')});
+	        	$slideshow.cycle({fx: 'fadeout', timeout: 1000, log: false}).cycle('pause').hover(function(){$(this).cycle('resume');}, function(){$(this).cycle('pause');});
 	        });
 	    }
 	},
@@ -155,13 +156,34 @@ var hju	= {
 			parent.append('<a class="'+config.class+' next" href="#2" title="Next page"><img src="img/s.gif"></a>');
 		}
 	},
+	synchronizeColumnsHeight:	function(){
+		$(document).imagesLoaded(function(){
+			if ($('body').data('synchronize-columns') == true)
+			{
+				var	leftcol				= $('.leftcol'),
+					contentcol			= $('.contentcol'),
+					leftcol_height		= leftcol.height(),
+					contentcol_height	= contentcol.height(),			
+					diff_height			= leftcol_height - contentcol_height;
+				// console.log('leftcol height: '+leftcol_height);
+				// console.log('contentcol height: '+contentcol);
+				// console.log('height diff leftcol-contencol: '+diff_height);
+				if (diff_height < 0)
+				{
+					leftcol.css({'height': (leftcol_height+Math.abs(diff_height))+'px'});
+				}
+			}
+		});
+	},
+	
 	init:	function(){
 		hju.mobileNavi();
 		hju.accordion();
 		hju.masonry();
 		hju.lightbox();
 		hju.cycleSlideshow();
-		hju.galleryPagination('.gallery_list', 'a.colorbox');
+		setTimeout(hju.synchronizeColumnsHeight, 200);
+		// hju.galleryPagination('.gallery_list', 'a.colorbox');
 	}
 };
 $(document).ready(function(){

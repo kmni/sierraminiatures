@@ -19,7 +19,7 @@
     </noscript>
 </head>
 
-<body class="homepage">
+<body class="homepage" data-synchronize-columns="true">
 
     <div id="header">
         <div class="container">
@@ -97,26 +97,20 @@
                     </ul>
                 </div> <!--// .leftcol -->
                 <div class="contentcol">
-                    <div id="rg-gallery" class="rg-gallery" data-mode="fullview">
-                        <div class="rg-thumbs">
-                            <!-- Elastislide Carousel Thumbnail Viewer -->
-                            <div class="es-carousel-wrapper">
-                                <div class="es-nav">
-                                    <span class="es-nav-prev">Previous</span>
-                                    <span class="es-nav-next">Next</span>
-                                </div>
-                                <div class="es-carousel">
-                                    <ul>
-                                        <li><a href="#"><img src="img/slideshow/thumbs/1.jpg" data-large="img/slideshow/1.jpg" alt="image01" data-description="" /></a></li>
-                                        <li><a href="#"><img src="img/slideshow/thumbs/2.jpg" data-large="img/slideshow/2.jpg" alt="image02" data-description="" /></a></li>
-                                        <li><a href="#"><img src="img/slideshow/thumbs/3.jpg" data-large="img/slideshow/3.jpg" alt="image03" data-description="" /></a></li>
-                                        <li><a href="#"><img src="img/slideshow/thumbs/4.jpg" data-large="img/slideshow/4.jpg" alt="image04" data-description="" /></a></li>
-                                    </ul>
-                                </div>
+                    <div id="home_carousel_container">
+                        <div id="home_carousel" class="carousel slide carousel-fade" data-interval="3000">
+                            <!-- Carousel items -->
+                            <div class="carousel-inner">
+                                <div class="active item"><img src="img/slideshow/1.jpg" alt=""></div>
+                                <div class="item"><img src="img/slideshow/2.jpg" alt=""></div>
+                                <div class="item"><img src="img/slideshow/3.jpg" alt=""></div>
+                                <div class="item"><img src="img/slideshow/4.jpg" alt=""></div>
                             </div>
-                            <!-- End Elastislide Carousel Thumbnail Viewer -->
-                        </div><!-- rg-thumbs -->
-                    </div><!-- rg-gallery -->
+                            <!-- Carousel nav -->
+                            <a class="carousel-control left" href="#home_carousel" data-slide="prev"><img src="./img/arrow_left.png" alt=""></a>
+                            <a class="carousel-control right" href="#home_carousel" data-slide="next"><img src="./img/arrow_right.png" alt=""></a>
+                        </div>
+                    </div>
                     <div class="cycle-slideshow">
                         <div class="slideshow">
                             <img src="./img/gallery/horses/horse-01-154x154.jpg">
@@ -234,27 +228,7 @@
     <script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="./js/bootstrap.min.js"></script>
     <script src="./js/colorbox/jquery.colorbox-min.js"></script>
-    <script src="./js/jquery.tmpl.min.js"></script>
     <script src="./js/jquery.easing.1.3.js"></script>
-    <script src="./js/jquery.elastislide.js"></script>
-    <script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">    
-        <div class="rg-image-wrapper">
-            <div class="rg-image"></div>
-            <div class="rg-loading"></div>
-            <!--div class="rg-caption-wrapper">
-                <div class="rg-caption" style="display:none;">
-                    <p></p>
-                </div>
-            </div-->
-            {{if itemsCount > 1}}
-                <div class="rg-image-nav">
-                    <a href="#" class="rg-image-nav-prev">Previous Image</a>
-                    <a href="#" class="rg-image-nav-next">Next Image</a>
-                </div>
-            {{/if}}
-        </div>
-    </script>
-    <script src="./js/gallery.js"></script>
     <script src="./js/jquery.cycle2.min.js"></script>
     <script src="./js/hju.js"></script>
     

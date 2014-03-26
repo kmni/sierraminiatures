@@ -90,6 +90,33 @@ img.span_bottom {margin-bottom: 25px!important;}
 .text img,
 .text .span_bottom {float: none; display: inline; width: auto; max-width: 100%; height: auto; margin: 0 auto 25px;}
 
+#home_carousel_container {padding: 0; margin: 0;}
+#home_carousel {padding: 0; margin: 0;}
+#home_carousel .carousel-inner {padding: 0; margin: 0;}
+#home_carousel .carousel-control {
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+    background: transparent url(../img/nav.png) no-repeat -20% 50%;
+    border: none;
+    border-radius: none;
+    opacity: 1;
+    width: 34px;
+    height: 100%;
+    text-indent:-9000px;
+    cursor:pointer;
+    outline:none;
+}
+#home_carousel .carousel-control.right {right:0px; left:auto; background-position:115% 50%;}
+.carousel-fade .carousel-inner .item {opacity: 0; -webkit-transition: .7s opacity; -moz-transition: .7s opacity; -o-transition: .7s opacity; transition: .7s opacity;}
+.carousel-fade .carousel-inner .active {opacity: 1;}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {left: 0; opacity: 0; z-index: 1;}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {opacity: 1;}
+.carousel-fade .carousel-control {z-index: 2;}
+
 .cycle-slideshow .slideshow {position: relative; display: block; float: left; width: 25%; max-width: 154px; padding: 0; margin: 0;}
 .cycle-slideshow .slideshow img {display: block; width: 100%; max-width: 100%; height: auto; padding: 0; margin: 0;}
 .cycle-slideshow .slideshow span {visibility: hidden; position: absolute; bottom: 0; left: 0; z-index: 10000; font: 400 13px/17px 'Open Sans', sans-serif; color: #fff; text-shadow: 1px 1px #000; text-transform: uppercase; padding: 0 0 5px 10px;}
