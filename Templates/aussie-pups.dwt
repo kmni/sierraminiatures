@@ -36,25 +36,24 @@
                     <div class="nav">
                         <select class="mobile_navi">
                             <option value="0">MENU</option>
-                            <option value="./about-us.html">About us</option>
-                            <option value="./training.html">- Training</option>
-                            <option value="./tikis-story.html">- Tiki's story</option>
-                            <option value="./our-special-animals.html">- Our special animals</option>
-                            <option value="./stallions.html">Stallions</option>
-                            <option value="./show-horses.html">Show horses</option>
-                            <option value="./sale-horses.html">Sale horses</option>
-                            <option value="./stallions-colts.html">- Stallions & Colts</option>
-                            <option value="./mares-fillies.html">- Mares & Fillies</option>
-                            <option value="./geldings.html">- Geldings</option>
-                            <option value="./aussie-pups.html" selected>Aussie pups</option>
-                            <option value="./phaesants.html">Phaesants</option>
-                            <option value="./pigeons.html">Pigeons</option>
-                            <option value="./judging.html">Judging</option>
-                            <option value="./news-events.html">News & Events</option>
-                            <option value="./news-feed.html">- News feed</option>
-                            <option value="./social-media.html">- Social media</option>
-                            <option value="./contact-us.html">Contact us</option>
-                            <option value="./links.html">- Links</option>
+                             
+                            <option value="../training.html">Training</option>
+                            <option value="../tikis-story.html">Tiki's story</option>
+                            <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../stallions.html">Stallions</option>
+                            <option value="../show-horses.html">Show horses</option>
+                            <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                            <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                            <option value="../geldings.html">Sales - Geldings</option>
+                            <option value="../aussie-pups.html" selected>Aussie pups</option>
+                            <option value="../phaesants.html">Phaesants</option>
+                            <option value="../pigeons.html">Pigeons</option>
+                            <option value="../judging.html">Judging</option>
+                             
+                            <option value="../news-feed.html">News feed</option>
+                            <option value="../social-media.html">Social media</option>
+                            <option value="../contact-us.html">Contact us</option>
+                            <option value="../links.html">Links</option>
                         </select>
                     </div>
                     <ul class="nav nav-list clearfix" id="top_navi">
@@ -87,25 +86,19 @@
                                 <li><a href="../social-media.html" title="Social media">Social media</a></li>
                             </ul>
                         </li>
-                        <li class="last has_children">
-                            <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                            <ul>
-                                <li><a href="../links.html" title="Links">Links</a></li>
-                            </ul>
-                        </li>
+                        <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
+                    </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                     </ul>
                 </div> <!--// .leftcol -->
                 <div class="contentcol">
-                    <div class="text">
-                        <img src="../img/tiki/tiki-01-400x258.jpg" alt="Tiki" width="400" height="258" class="span_bottom">
-                        <h1>Aussie pups</h1>
+                    <div class="text"><!-- TemplateBeginEditable name="banner" --> <img src="../img/tiki/tiki-01-400x258.jpg" alt="Tiki" width="400" height="258" class="span_bottom"><!-- TemplateEndEditable -->
+                        <h1><!-- TemplateBeginEditable name="h1" -->Aussie pups<!-- TemplateEndEditable --></h1>
+                        <!-- TemplateBeginEditable name="text" -->
                         <p>It was Father's Day June 1992. I was heading in from the horse's pasture when I saw the dust rising from the truck's tires. Steve was coming down the road faster than normal. I hurried up the drive to meet him. As the truck engulfed in the cloud of dust neared, I could see something in the front seat with Steve. He was holding it in his arms but I couldn't quite make it out. It couldn't be a new puppy, could it? I ran to the truck to see what the surprise was. As he rolled to a stop my heart began to pound. I jumped up on to the running board and peered in to the window. I couldn't believe my eyes. In Steve's arms was the most beautiful creature I had ever seen. It was a very tiny Fawn, full of spots.</p>
                         <p>I had never seen such a small Fawn. I held back my screams of delight so I wouldn't scare her but I was so excited to see such a delicate, beautiful animal.</p>
-                        
-                        <img src="../img/tiki/tiki-02-288x248.jpg" alt="Tiki 02" width="288" height="248" class="span_bottom">
-                        &nbsp;&nbsp;
-                        <img src="../img/tiki/tiki-03-288x248.jpg" alt="Tiki 03" width="288" height="248" class="span_bottom">
-                        
+                        <img src="../img/tiki/tiki-02-288x248.jpg" alt="Tiki 02" width="288" height="248" class="span_bottom"> &nbsp;&nbsp; <img src="../img/tiki/tiki-03-288x248.jpg" alt="Tiki 03" width="288" height="248" class="span_bottom">
                         <p>As I took the precious bundle from his arms he explained that he had found her down by the mail boxes and her mother lay dead in the road, hit by a car. She could only be hours old for her umbilical cord was still fresh. I took her into the house and laid her on a blanket and immediately called my Vet. He was not very encouraging and told me her chances of survival were next to none.</p>
                         <p>Of course that didn't deter me and my next phone call was to a neighbor that had milking goats. Yes, they had some colostrum and plenty of fresh goats milk. As I heated her first meal I could barely take my eyes off her. She had to be the most wonderful creature I had ever seen. So tiny, so delicate. She took her first bottle with some fuss but soon got used to it. It wasn't long before she was a pro at downing that bottle. We decided to call her "Tiki".</p>
                         <p>She slept with us at night and followed me during the day. I heated her bottle in the microwave and it wasn't long before she new when that microwave "dinged" her bottle was ready and Tiki would stand on her hind legs looking at the oven until we retrieve her bottle. We were inseparable that summer and spent all our time together. Tiki was house broken the first day and quite comfortable laying on the couch or bed. She traveled with us in the front seat of the truck if we had to go anywhere. As Tiki grew she began to loose her spots and they were replaced by a soft brown coat. Whatever I did or where ever I would go, Tiki followed.</p>
@@ -118,8 +111,10 @@
                         <p>As the sun came up, quietly Ophir, Cinco and Sticks appeared. I let them have some time with Tiki and then to my amazement as they began to wander off they encouraged Tutu to join them. Tutu was hesitant to leave her mother but Ophir with much patience waited for her. I couldn't believe what was happening. Tutu finally followed the other deer. Now every morning Ophir, Cinco, Sticks and Tutu come in for their grain and Tutu comes up to me for her little bit of scratching and petting and then wanders off with the small group. She is going to be just fine.</p>
                         <p>After we buried Tiki we saw the most amazing sight. More deer than we had ever seen before, at least 20 of them were grazing near Tiki's grave. It was an unbelievable sight.</p>
                         <p>&nbsp;</p>
-                        <p>sire: Just Bronco 28.50”<br>dam: Sierra Golds Dances With Wind 28.50”</p>
-                    </div> <!--// .text -->
+                        <p>sire: Just Bronco 28.50”<br>
+                          dam: Sierra Golds Dances With Wind 28.50”</p>
+                        <!-- TemplateEndEditable --></div> 
+                    <!--// .text -->
                 </div> <!--// .contentcol -->
             </div> <!--// .row-fluid -->
         </div> <!--// .container -->
@@ -130,29 +125,28 @@
             <div class="navi clearfix">
                 <select class="mobile_navi">
                     <option value="0">MENU</option>
-                    <option value="./about-us.html">About us</option>
-                    <option value="./training.html">- Training</option>
-                    <option value="./tikis-story.html">- Tiki's story</option>
-                    <option value="./our-special-animals.html">- Our special animals</option>
-                    <option value="./stallions.html">Stallions</option>
-                    <option value="./show-horses.html">Show horses</option>
-                    <option value="./sale-horses.html">Sale horses</option>
-                    <option value="./stallions-colts.html">- Stallions & Colts</option>
-                    <option value="./mares-fillies.html">- Mares & Fillies</option>
-                    <option value="./geldings.html">- Geldings</option>
-                    <option value="./aussie-pups.html" selected>Aussie pups</option>
-                    <option value="./phaesants.html">Phaesants</option>
-                    <option value="./pigeons.html">Pigeons</option>
-                    <option value="./judging.html">Judging</option>
-                    <option value="./news-events.html">News & Events</option>
-                    <option value="./news-feed.html">- News feed</option>
-                    <option value="./social-media.html">- Social media</option>
-                    <option value="./contact-us.html">Contact us</option>
-                    <option value="./links.html">- Links</option>
+                     
+                    <option value="../training.html">Training</option>
+                    <option value="../tikis-story.html">Tiki's story</option>
+                    <option value="../our-special-animals.html">Our special animals</option>
+                    <option value="../stallions.html">Stallions</option>
+                    <option value="../show-horses.html">Show horses</option>
+                    <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                    <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                    <option value="../geldings.html">Sales - Geldings</option>
+                    <option value="../aussie-pups.html" selected>Aussie pups</option>
+                    <option value="../phaesants.html">Phaesants</option>
+                    <option value="../pigeons.html">Pigeons</option>
+                    <option value="../judging.html">Judging</option>
+                     
+                    <option value="../news-feed.html">News feed</option>
+                    <option value="../social-media.html">Social media</option>
+                    <option value="../contact-us.html">Contact us</option>
+                    <option value="../links.html">Links</option>
                 </select>
                 <ul class="col1">
                     <li class="has_children">
-                        <a href="../about-us.html" title="About us"><span>About us</span></a>
+                        <span>About us</span>
                         <ul>
                             <li><a href="../training.html" title="Training">Training</a></li>
                             <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
@@ -164,7 +158,7 @@
                 </ul>
                 <ul class="col2">
                     <li class="has_children">
-                        <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                        <span>Sale horses</span>
                         <ul>
                             <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
                             <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
@@ -180,18 +174,16 @@
                 </ul>
                 <ul class="col4">
                     <li class="has_children">
-                        <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                        <span>News & events</span>
                         <ul>
                             <li><a href="../news-feed.html" title="News feed">News feed</a></li>
                             <li><a href="../social-media.html" title="Social media">Social media</a></li>
                         </ul>
                     </li>
-                    <li class="last has_children">
-                        <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                        <ul>
-                            <li><a href="../links.html" title="Links">Links</a></li>
-                        </ul>
+                    <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
                     </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                 </ul>
             </div> <!--// .navi -->
             <div class="contacts">

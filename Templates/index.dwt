@@ -41,28 +41,27 @@
                     <div class="nav">
                         <select class="mobile_navi">
                             <option value="0">MENU</option>
-                            <option value="./about-us.html">About us</option>
-                            <option value="./training.html">- Training</option>
-                            <option value="./tikis-story.html">- Tiki's story</option>
-                            <option value="./our-special-animals.html">- Our special animals</option>
-                            <option value="./stallions.html">Stallions</option>
-                            <option value="./show-horses.html">Show horses</option>
-                            <option value="./sale-horses.html">Sale horses</option>
-                            <option value="./stallions-colts.html">- Stallions & Colts</option>
-                            <option value="./mares-fillies.html">- Mares & Fillies</option>
-                            <option value="./geldings.html">- Geldings</option>
-                            <option value="./aussie-pups.html">Aussie pups</option>
-                            <option value="./phaesants.html">Phaesants</option>
-                            <option value="./pigeons.html">Pigeons</option>
-                            <option value="./judging.html">Judging</option>
-                            <option value="./news-events.html">News & Events</option>
-                            <option value="./news-feed.html">- News feed</option>
-                            <option value="./social-media.html">- Social media</option>
-                            <option value="./contact-us.html">Contact us</option>
-                            <option value="./links.html">- Links</option>
+                             
+                            <option value="../training.html">Training</option>
+                            <option value="../tikis-story.html">Tiki's story</option>
+                            <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../stallions.html">Stallions</option>
+                            <option value="../show-horses.html">Show horses</option>
+                            <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                            <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                            <option value="../geldings.html">Sales - Geldings</option>
+                            <option value="../aussie-pups.html">Aussie pups</option>
+                            <option value="../phaesants.html">Phaesants</option>
+                            <option value="../pigeons.html">Pigeons</option>
+                            <option value="../judging.html">Judging</option>
+                             
+                            <option value="../news-feed.html">News feed</option>
+                            <option value="../social-media.html">Social media</option>
+                            <option value="../contact-us.html">Contact us</option>
+                            <option value="../links.html">Links</option>
                         </select>
                     </div>
-                    <ul class="nav nav-list clearfix" id="top_navi">
+                    <ul class="nav nav-list clearfix homepage" id="top_navi">
                         <li class="has_children">
                             <a href="../about-us.html" title="About us"><span>About us</span></a>
                             <ul>
@@ -92,60 +91,38 @@
                                 <li><a href="../social-media.html" title="Social media">Social media</a></li>
                             </ul>
                         </li>
-                        <li class="last has_children">
-                            <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                            <ul>
-                                <li><a href="../links.html" title="Links">Links</a></li>
-                            </ul>
-                        </li>
+                        <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
+                    </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                     </ul>
                 </div> <!--// .leftcol -->
                 <div class="contentcol">
                     <div id="home_carousel_container">
-                        <div id="home_carousel" class="carousel slide carousel-fade" data-interval="3000">
+                        <div id="home_carousel" class="carousel slide carousel-fade">
                             <!-- Carousel items -->
-                            <div class="carousel-inner">
-                                <div class="active item"><img src="../img/slideshow/1.jpg" alt=""></div>
-                                <div class="item"><img src="../img/slideshow/2.jpg" alt=""></div>
-                                <div class="item"><img src="../img/slideshow/3.jpg" alt=""></div>
-                                <div class="item"><img src="../img/slideshow/4.jpg" alt=""></div>
-                            </div>
+                            <div class="carousel-inner"><!-- TemplateBeginEditable name="main-slideshow" -->
+                            <div class="active item"><img src="../img/slideshow/1.jpg" alt=""></div>
+                            <div class="item"><img src="../img/slideshow/2.jpg" alt=""></div>
+                            <div class="item"><img src="../img/slideshow/3.jpg" alt=""></div>
+                            <div class="item"><img src="../img/slideshow/4.jpg" alt=""></div>
+                            <!-- TemplateEndEditable --></div>
                             <!-- Carousel nav -->
                             <a class="carousel-control left" href="#home_carousel" data-slide="prev"><img src="../img/arrow_left.png" alt=""></a>
                             <a class="carousel-control right" href="#home_carousel" data-slide="next"><img src="../img/arrow_right.png" alt=""></a>
                         </div>
                     </div>
                     <div class="cycle-slideshow">
-                        <div class="slideshow">
-                            <img src="../img/gallery/horses/horse-01-154x154.jpg">
-                            <img src="../img/gallery/horses/horse-02-154x154.jpg">
-                            <img src="../img/gallery/horses/horse-03-154x154.jpg">
-                            <img src="../img/gallery/horses/horse-04-154x154.jpg">
-                            <span>Horses</span>
+                        <div class="slideshow"><!-- TemplateBeginEditable name="slideshow1" --> <img src="../img/gallery/horses/horse-01-154x154.jpg"> <img src="../img/gallery/horses/horse-02-154x154.jpg"> <img src="../img/gallery/horses/horse-03-154x154.jpg"> <img src="../img/gallery/horses/horse-04-154x154.jpg"><!-- TemplateEndEditable --><span>Horses</span>
                         </div>
 
-                        <div class="slideshow">
-                            <img src="../img/gallery/dogs/dog-01-154x154.jpg">
-                            <img src="../img/gallery/dogs/dog-02-154x154.jpg">
-                            <img src="../img/gallery/dogs/dog-03-154x154.jpg">
-                            <img src="../img/gallery/dogs/dog-04-154x154.jpg">
-                            <span>Aussie pups</span>
-                        </div>
+                        <div class="slideshow"><!-- TemplateBeginEditable name="slideshow2" --><img src="../img/gallery/dogs/dog-01-154x154.jpg"> <img src="../img/gallery/dogs/dog-02-154x154.jpg"> <img src="../img/gallery/dogs/dog-03-154x154.jpg"> <img src="../img/gallery/dogs/dog-04-154x154.jpg"><!-- TemplateEndEditable --><span>Aussie pups</span>
+                      </div>
 
-                        <div class="slideshow">
-                            <img src="../img/gallery/phaesants/phaesant-01-154x154.jpg">
-                            <img src="../img/gallery/phaesants/phaesant-02-154x154.jpg">
-                            <img src="../img/gallery/phaesants/phaesant-03-154x154.jpg">
-                            <img src="../img/gallery/phaesants/phaesant-04-154x154.jpg">
-                            <span>Phaesants</span>
-                        </div>
+                        <div class="slideshow"><!-- TemplateBeginEditable name="slideshow3" --><img src="../img/gallery/phaesants/phaesant-01-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-02-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-03-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-04-154x154.jpg"><!-- TemplateEndEditable --><span>Phaesants</span>
+                      </div>
 
-                        <div class="slideshow">
-                            <img src="../img/gallery/pigeons/pigeon-01-154x154.jpg">
-                            <img src="../img/gallery/pigeons/pigeon-02-154x154.jpg">
-                            <img src="../img/gallery/pigeons/pigeon-03-154x154.jpg">
-                            <img src="../img/gallery/pigeons/pigeon-04-154x154.jpg">
-                            <span>Racing pigeons</span>
+                        <div class="slideshow"><!-- TemplateBeginEditable name="slideshow4" --> <img src="../img/gallery/pigeons/pigeon-01-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-02-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-03-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-04-154x154.jpg"><!-- TemplateEndEditable --><span>Racing pigeons</span>
                         </div>
                     </div> <!--// .cycle-slideshow -->
                 </div> <!--// .contentcol -->
@@ -158,29 +135,28 @@
             <div class="navi clearfix">
                 <select class="mobile_navi">
                     <option value="0">MENU</option>
-                    <option value="./about-us.html">About us</option>
-                    <option value="./training.html">- Training</option>
-                    <option value="./tikis-story.html">- Tiki's story</option>
-                    <option value="./our-special-animals.html">- Our special animals</option>
-                    <option value="./stallions.html">Stallions</option>
-                    <option value="./show-horses.html">Show horses</option>
-                    <option value="./sale-horses.html">Sale horses</option>
-                    <option value="./stallions-colts.html">- Stallions & Colts</option>
-                    <option value="./mares-fillies.html">- Mares & Fillies</option>
-                    <option value="./geldings.html">- Geldings</option>
-                    <option value="./aussie-pups.html">Aussie pups</option>
-                    <option value="./phaesants.html">Phaesants</option>
-                    <option value="./pigeons.html">Pigeons</option>
-                    <option value="./judging.html">Judging</option>
-                    <option value="./news-events.html">News & Events</option>
-                    <option value="./news-feed.html">- News feed</option>
-                    <option value="./social-media.html">- Social media</option>
-                    <option value="./contact-us.html">Contact us</option>
-                    <option value="./links.html">- Links</option>
+                     
+                    <option value="../training.html">Training</option>
+                    <option value="../tikis-story.html">Tiki's story</option>
+                    <option value="../our-special-animals.html">Our special animals</option>
+                    <option value="../stallions.html">Stallions</option>
+                    <option value="../show-horses.html">Show horses</option>
+                    <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                    <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                    <option value="../geldings.html">Sales - Geldings</option>
+                    <option value="../aussie-pups.html">Aussie pups</option>
+                    <option value="../phaesants.html">Phaesants</option>
+                    <option value="../pigeons.html">Pigeons</option>
+                    <option value="../judging.html">Judging</option>
+                     
+                    <option value="../news-feed.html">News feed</option>
+                    <option value="../social-media.html">Social media</option>
+                    <option value="../contact-us.html">Contact us</option>
+                    <option value="../links.html">Links</option>
                 </select>
                 <ul class="col1">
                     <li class="has_children">
-                        <a href="../about-us.html" title="About us"><span>About us</span></a>
+                        <span>About us</span>
                         <ul>
                             <li><a href="../training.html" title="Training">Training</a></li>
                             <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
@@ -192,7 +168,7 @@
                 </ul>
                 <ul class="col2">
                     <li class="has_children">
-                        <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                        <span>Sale horses</span>
                         <ul>
                             <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
                             <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
@@ -208,18 +184,16 @@
                 </ul>
                 <ul class="col4">
                     <li class="has_children">
-                        <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                        <span>News & events</span>
                         <ul>
                             <li><a href="../news-feed.html" title="News feed">News feed</a></li>
                             <li><a href="../social-media.html" title="Social media">Social media</a></li>
                         </ul>
                     </li>
-                    <li class="last has_children">
-                        <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                        <ul>
-                            <li><a href="../links.html" title="Links">Links</a></li>
-                        </ul>
+                    <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
                     </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                 </ul>
             </div> <!--// .navi -->
             <div class="contacts">
@@ -235,6 +209,12 @@
     <script src="../js/jquery.easing.1.3.js"></script>
     <script src="../js/jquery.cycle2.min.js"></script>
     <script src="../js/hju.js"></script>
-    
+    <script type='text/javascript'>
+    $(document).ready(function() {
+         $('#home_carousel').carousel({
+             interval: 3000
+         })
+    });    
+    </script>
   </body>
 </html>

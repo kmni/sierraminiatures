@@ -41,25 +41,24 @@
                     <div class="nav">
                         <select class="mobile_navi">
                             <option value="0">MENU</option>
-                            <option value="./about-us.html">About us</option>
-                            <option value="./training.html">- Training</option>
-                            <option value="./tikis-story.html">- Tiki's story</option>
-                            <option value="./our-special-animals.html">- Our special animals</option>
-                            <option value="./stallions.html">Stallions</option>
-                            <option value="./show-horses.html">Show horses</option>
-                            <option value="./sale-horses.html">Sale horses</option>
-                            <option value="./stallions-colts.html">- Stallions & Colts</option>
-                            <option value="./mares-fillies.html">- Mares & Fillies</option>
-                            <option value="./geldings.html">- Geldings</option>
-                            <option value="./aussie-pups.html">Aussie pups</option>
-                            <option value="./phaesants.html">Phaesants</option>
-                            <option value="./pigeons.html">Pigeons</option>
-                            <option value="./judging.html">Judging</option>
-                            <option value="./news-events.html">News & Events</option>
-                            <option value="./news-feed.html">- News feed</option>
-                            <option value="./social-media.html">- Social media</option>
-                            <option value="./contact-us.html">Contact us</option>
-                            <option value="./links.html">- Links</option>
+                             
+                            <option value="../training.html">Training</option>
+                            <option value="../tikis-story.html">Tiki's story</option>
+                            <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../stallions.html">Stallions</option>
+                            <option value="../show-horses.html">Show horses</option>
+                            <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                    <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                    <option value="../geldings.html">Sales - Geldings</option>
+                            <option value="../aussie-pups.html">Aussie pups</option>
+                            <option value="../phaesants.html">Phaesants</option>
+                            <option value="../pigeons.html">Pigeons</option>
+                            <option value="../judging.html">Judging</option>
+                             
+                            <option value="../news-feed.html">News feed</option>
+                            <option value="../social-media.html">Social media</option>
+                            <option value="../contact-us.html">Contact us</option>
+                            <option value="../links.html">- Links</option>
                         </select>
                     </div>
                     <ul class="nav nav-list clearfix" id="top_navi">
@@ -102,10 +101,10 @@
                 </div> <!--// .leftcol -->
                 <div class="contentcol horse_detail">
                     <div class="text">
-                        <h1>Sierras Double Destiny Takara</h1>
+                        <h1><!-- TemplateBeginEditable name="name" -->Sierras Double Destiny Takara<!-- TemplateEndEditable --></h1>
 
                         <div id="rg-gallery" class="rg-gallery">
-                            <div class="rg-thumbs">
+                          <div class="rg-thumbs">
                                 <!-- Elastislide Carousel Thumbnail Viewer -->
                                 <div class="es-carousel-wrapper">
                                     <div class="es-nav">
@@ -114,6 +113,7 @@
                                     </div>
                                     <div class="es-carousel">
                                         <ul>
+                                        <!-- TemplateBeginEditable name="slideshow" -->
                                             <li><a href="#"><img src="../img/slideshow/thumbs/1.jpg" data-large="img/slideshow/1.jpg" alt="image01" data-description="From off a hill whose concave womb reworded" /></a></li>
                                             <li><a href="#"><img src="../img/slideshow/thumbs/2.jpg" data-large="img/slideshow/2.jpg" alt="image02" data-description="A plaintful story from a sistering vale" /></a></li>
                                             <li><a href="#"><img src="../img/slideshow/thumbs/3.jpg" data-large="img/slideshow/3.jpg" alt="image03" data-description="A plaintful story from a sistering vale" /></a></li>
@@ -138,16 +138,16 @@
                                             <li><a href="#"><img src="../img/slideshow/thumbs/22.jpg" data-large="img/slideshow/22.jpg" alt="image22" data-description="In clamours of all size, both high and low" /></a></li>
                                             <li><a href="#"><img src="../img/slideshow/thumbs/23.jpg" data-large="img/slideshow/23.jpg" alt="image23" data-description="Sometimes her levell'd eyes their carriage ride" /></a></li>
                                             <li><a href="#"><img src="../img/slideshow/thumbs/24.jpg" data-large="img/slideshow/24.jpg" alt="image24" data-description="As they did battery to the spheres intend" /></a></li>
+                                          <!-- TemplateEndEditable -->
                                         </ul>
                                     </div>
                                 </div>
                                 <!-- End Elastislide Carousel Thumbnail Viewer -->
                             </div><!-- rg-thumbs -->
-                        </div><!-- rg-gallery -->
-
-                        <p>Winning Supreme Champion in 2009<br>and our granddaughter "Tamarah" with Takara in the ring</p>
-
-                    </div> <!--// .text -->
+                        </div><!-- rg-gallery --><!-- TemplateBeginEditable name="information" -->
+                        <p>Winning Supreme Champion in 2009<br>
+                          and our granddaughter "Tamarah" with Takara in the ring</p>
+                        <!-- TemplateEndEditable --></div> <!--// .text -->
                 </div> <!--// .contentcol -->
             </div> <!--// .row-fluid -->
         </div> <!--// .container -->
@@ -158,29 +158,28 @@
             <div class="navi clearfix">
                 <select class="mobile_navi">
                     <option value="0">MENU</option>
-                    <option value="./about-us.html">About us</option>
-                    <option value="./training.html">- Training</option>
-                    <option value="./tikis-story.html">- Tiki's story</option>
-                    <option value="./our-special-animals.html">- Our special animals</option>
-                    <option value="./stallions.html">Stallions</option>
-                    <option value="./show-horses.html">Show horses</option>
-                    <option value="./sale-horses.html">Sale horses</option>
-                    <option value="./stallions-colts.html">- Stallions & Colts</option>
-                    <option value="./mares-fillies.html">- Mares & Fillies</option>
-                    <option value="./geldings.html">- Geldings</option>
-                    <option value="./aussie-pups.html">Aussie pups</option>
-                    <option value="./phaesants.html">Phaesants</option>
-                    <option value="./pigeons.html">Pigeons</option>
-                    <option value="./judging.html">Judging</option>
-                    <option value="./news-events.html">News & Events</option>
-                    <option value="./news-feed.html">- News feed</option>
-                    <option value="./social-media.html">- Social media</option>
-                    <option value="./contact-us.html">Contact us</option>
-                    <option value="./links.html">- Links</option>
+                     
+                    <option value="../training.html">Training</option>
+                    <option value="../tikis-story.html">Tiki's story</option>
+                    <option value="../our-special-animals.html">Our special animals</option>
+                    <option value="../stallions.html">Stallions</option>
+                    <option value="../show-horses.html">Show horses</option>
+                    <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                    <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                    <option value="../geldings.html">Sales - Geldings</option>
+                    <option value="../aussie-pups.html">Aussie pups</option>
+                    <option value="../phaesants.html">Phaesants</option>
+                    <option value="../pigeons.html">Pigeons</option>
+                    <option value="../judging.html">Judging</option>
+                     
+                    <option value="../news-feed.html">News feed</option>
+                    <option value="../social-media.html">Social media</option>
+                    <option value="../contact-us.html">Contact us</option>
+                    <option value="../links.html">Links</option>
                 </select>
                 <ul class="col1">
                     <li class="has_children">
-                        <a href="../about-us.html" title="About us"><span>About us</span></a>
+                        <span>About us</span>
                         <ul>
                             <li><a href="../training.html" title="Training">Training</a></li>
                             <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
@@ -192,7 +191,7 @@
                 </ul>
                 <ul class="col2">
                     <li class="has_children">
-                        <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                        <span>Sale horses</span>
                         <ul>
                             <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
                             <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
@@ -208,18 +207,16 @@
                 </ul>
                 <ul class="col4">
                     <li class="has_children">
-                        <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                        <span>News & events</span>
                         <ul>
                             <li><a href="../news-feed.html" title="News feed">News feed</a></li>
                             <li><a href="../social-media.html" title="Social media">Social media</a></li>
                         </ul>
                     </li>
-                    <li class="last has_children">
-                        <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                        <ul>
-                            <li><a href="../links.html" title="Links">Links</a></li>
-                        </ul>
+                    <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
                     </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                 </ul>
             </div> <!--// .navi -->
             <div class="contacts">

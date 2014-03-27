@@ -37,25 +37,24 @@
                     <div class="nav">
                         <select class="mobile_navi">
                             <option value="0">MENU</option>
-                            <option value="./about-us.html" selected>About us</option>
-                            <option value="./training.html">- Training</option>
-                            <option value="./tikis-story.html">- Tiki's story</option>
-                            <option value="./our-special-animals.html">- Our special animals</option>
-                            <option value="./stallions.html">Stallions</option>
-                            <option value="./show-horses.html">Show horses</option>
-                            <option value="./sale-horses.html">Sale horses</option>
-                            <option value="./stallions-colts.html">- Stallions & Colts</option>
-                            <option value="./mares-fillies.html">- Mares & Fillies</option>
-                            <option value="./geldings.html">- Geldings</option>
-                            <option value="./aussie-pups.html">Aussie pups</option>
-                            <option value="./phaesants.html">Phaesants</option>
-                            <option value="./pigeons.html">Pigeons</option>
-                            <option value="./judging.html">Judging</option>
-                            <option value="./news-events.html">News & Events</option>
-                            <option value="./news-feed.html">- News feed</option>
-                            <option value="./social-media.html" selected>- Social media</option>
-                            <option value="./contact-us.html">Contact us</option>
-                            <option value="./links.html">- Links</option>
+                             
+                            <option value="../training.html">Training</option>
+                            <option value="../tikis-story.html">Tiki's story</option>
+                            <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../stallions.html">Stallions</option>
+                            <option value="../show-horses.html">Show horses</option>
+                            <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                    <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                    <option value="../geldings.html">Sales - Geldings</option>
+                            <option value="../aussie-pups.html">Aussie pups</option>
+                            <option value="../phaesants.html">Phaesants</option>
+                            <option value="../pigeons.html">Pigeons</option>
+                            <option value="../judging.html">Judging</option>
+                             
+                            <option value="../news-feed.html">News feed</option>
+                            <option value="../social-media.html" selected>Social media</option>
+                            <option value="../contact-us.html">Contact us</option>
+                            <option value="../links.html">Links</option>
                         </select>
                     </div>
                     <ul class="nav nav-list clearfix" id="top_navi">
@@ -88,19 +87,17 @@
                                 <li class="active"><a href="../social-media.html" title="Social media">Social media</a></li>
                             </ul>
                         </li>
-                        <li class="last has_children">
-                            <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                            <ul>
-                                <li><a href="../links.html" title="Links">Links</a></li>
-                            </ul>
-                        </li>
+                        <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
+                    </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                     </ul>
                 </div> <!--// .leftcol -->
                 <div class="contentcol">
                     <div class="text">
-                        <h1><span>NEWS</span></h1>
+                        <h1><!-- TemplateBeginEditable name="h1" -->NEWS<!-- TemplateEndEditable --></h1>
                         <!-- Facebook BEGIN -->
-                        <ul id="facebook">
+                      <ul id="facebook">
                             <li class="loading"><img src="../img/ajax-loader.gif" alt="Loading ..." width="24" height="24"><br>Loading…</li>
                         </ul>
                         <!-- Facebook END -->
@@ -115,29 +112,28 @@
             <div class="navi clearfix">
                 <select class="mobile_navi">
                     <option value="0">MENU</option>
-                    <option value="./about-us.html" selected>About us</option>
-                    <option value="./training.html">- Training</option>
-                    <option value="./tikis-story.html">- Tiki's story</option>
-                    <option value="./our-special-animals.html">- Our special animals</option>
-                    <option value="./stallions.html">Stallions</option>
-                    <option value="./show-horses.html">Show horses</option>
-                    <option value="./sale-horses.html">Sale horses</option>
-                    <option value="./stallions-colts.html">- Stallions & Colts</option>
-                    <option value="./mares-fillies.html">- Mares & Fillies</option>
-                    <option value="./geldings.html">- Geldings</option>
-                    <option value="./aussie-pups.html">Aussie pups</option>
-                    <option value="./phaesants.html">Phaesants</option>
-                    <option value="./pigeons.html">Pigeons</option>
-                    <option value="./judging.html">Judging</option>
-                    <option value="./news-events.html">News & Events</option>
-                    <option value="./news-feed.html">- News feed</option>
-                    <option value="./social-media.html" selected>- Social media</option>
-                    <option value="./contact-us.html">Contact us</option>
-                    <option value="./links.html">- Links</option>
+                     
+                    <option value="../training.html">Training</option>
+                    <option value="../tikis-story.html">Tiki's story</option>
+                    <option value="../our-special-animals.html">Our special animals</option>
+                    <option value="../stallions.html">Stallions</option>
+                    <option value="../show-horses.html">Show horses</option>
+                    <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                    <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                    <option value="../geldings.html">Sales - Geldings</option>
+                    <option value="../aussie-pups.html">Aussie pups</option>
+                    <option value="../phaesants.html">Phaesants</option>
+                    <option value="../pigeons.html">Pigeons</option>
+                    <option value="../judging.html">Judging</option>
+                     
+                    <option value="../news-feed.html">News feed</option>
+                    <option value="../social-media.html" selected>Social media</option>
+                    <option value="../contact-us.html">Contact us</option>
+                            <option value="../links.html">Links</option>
                 </select>
                 <ul class="col1">
                     <li class="has_children">
-                        <a href="../about-us.html" title="About us"><span>About us</span></a>
+                        <span>About us</span>
                         <ul>
                             <li><a href="../training.html" title="Training">Training</a></li>
                             <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
@@ -149,7 +145,7 @@
                 </ul>
                 <ul class="col2">
                     <li class="has_children">
-                        <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                        <span>Sale horses</span>
                         <ul>
                             <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
                             <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
@@ -165,18 +161,16 @@
                 </ul>
                 <ul class="col4">
                     <li class="has_children">
-                        <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                        <span>News & events</span>
                         <ul>
                             <li><a href="../news-feed.html" title="News feed">News feed</a></li>
                             <li><a href="../social-media.html" title="Social media">Social media</a></li>
                         </ul>
                     </li>
-                    <li class="last has_children">
-                        <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                        <ul>
-                            <li><a href="../links.html" title="Links">Links</a></li>
-                        </ul>
+                    <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
                     </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                 </ul>
             </div> <!--// .navi -->
             <div class="contacts">

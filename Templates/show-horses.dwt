@@ -36,25 +36,24 @@
                     <div class="nav">
                         <select class="mobile_navi">
                             <option value="0">MENU</option>
-                            <option value="./about-us.html">About us</option>
-                            <option value="./training.html">- Training</option>
-                            <option value="./tikis-story.html">- Tiki's story</option>
-                            <option value="./our-special-animals.html">- Our special animals</option>
-                            <option value="./stallions.html">Stallions</option>
-                            <option value="./show-horses.html" selected>Show horses</option>
-                            <option value="./sale-horses.html">Sale horses</option>
-                            <option value="./stallions-colts.html">- Stallions & Colts</option>
-                            <option value="./mares-fillies.html">- Mares & Fillies</option>
-                            <option value="./geldings.html">- Geldings</option>
-                            <option value="./aussie-pups.html">Aussie pups</option>
-                            <option value="./phaesants.html">Phaesants</option>
-                            <option value="./pigeons.html">Pigeons</option>
-                            <option value="./judging.html">Judging</option>
-                            <option value="./news-events.html">News & Events</option>
-                            <option value="./news-feed.html">- News feed</option>
-                            <option value="./social-media.html">- Social media</option>
-                            <option value="./contact-us.html">Contact us</option>
-                            <option value="./links.html">- Links</option>
+                             
+                            <option value="../training.html">Training</option>
+                            <option value="../tikis-story.html">Tiki's story</option>
+                            <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../stallions.html">Stallions</option>
+                            <option value="../show-horses.html" selected>Show horses</option>
+                            <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                            <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                            <option value="../geldings.html">Sales - Geldings</option>
+                            <option value="../aussie-pups.html">Aussie pups</option>
+                            <option value="../phaesants.html">Phaesants</option>
+                            <option value="../pigeons.html">Pigeons</option>
+                            <option value="../judging.html">Judging</option>
+                             
+                            <option value="../news-feed.html">News feed</option>
+                            <option value="../social-media.html">Social media</option>
+                            <option value="../contact-us.html">Contact us</option>
+                            <option value="../links.html">Links</option>
                         </select>
                     </div>
                     <ul class="nav nav-list clearfix" id="top_navi">
@@ -87,56 +86,48 @@
                                 <li><a href="../social-media.html" title="Social media">Social media</a></li>
                             </ul>
                         </li>
-                        <li class="last has_children">
-                            <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                            <ul>
-                                <li><a href="../links.html" title="Links">Links</a></li>
-                            </ul>
-                        </li>
+                        <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
+                    </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                     </ul>
                 </div> <!--// .leftcol -->
                 <div class="contentcol horses_list">
-                    <div class="list">
-
-                        <div class="item">
-                            <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierras-double-destiny-takara-342x287.jpg"></a>
-                            <h2>Sierras Double Destiny Takara</h2>
-                            <p>Winning Supreme Champion in 2009</p>
-                            <a class="more" href="../horse-detail.html">more</a>
-                        </div> <!--// .item -->
-
-                        <div class="item">
-                            <a class="image" href="../horse-detail.html"><img src="../img/show-horses/mystic-rose-pass-the-buck-500-342x340.jpg"></a>
-                            <h2>Mystic Rose Pass the Buck 500</h2>
-                            <p>2004 AHMA Western Champion - <br>Solid Color Stallions and Geldings</p>
-                        </div> <!--// .item -->
-
-                        <div class="item">
-                            <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierra-golds-american-treasure-342x256.jpg"></a>
-                            <h2>Sierra Golds American Treasure</h2>
-                            <p>A true beauty!</p>
-                            <a class="more" href="../horse-detail.html">more</a>
-                        </div> <!--// .item -->
-
-                        <div class="item">
-                            <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierra-star-fire-gold-342x225.jpg"></a>
-                            <h2>Sierra Star Fire Gold</h2>
-                            <p>2004 AHMA Western Champion - <br>Top 5 - Junior Mares</p>
-                        </div> <!--// .item -->
-
-                        <div class="item">
-                            <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierra-golds-ditamond-attraction-342x286.jpg"></a>
-                            <h2>Sierra Golds Ditamond Attraction</h2>
-                            <p>Winning Supreme Halter Horse in 2009</p>
-                        </div> <!--// .item -->
-
-                        <div class="item">
-                            <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierras-dances-with-wind-342x276.jpg"></a>
-                            <h2>Sierras Dances with Wind</h2>
-                            <p>2004 AHMA Western Champion Filly (28” and Under)</p>
-                        </div> <!--// .item -->
-
-                    </div> <!--// .list -->
+                    <div class="list"><!-- TemplateBeginEditable name="list" -->
+                      <div class="item"> <img src="../img/show-horses/sierras-double-destiny-takara-342x287.jpg" class="image">
+                        <h2><a href="../horse-detail.html">Sierras Double Destiny Takara</a></h2>
+                        <p>Winning Supreme Champion in 2009</p>
+                        <a class="more" href="../horse-detail.html">more</a> </div>
+                      <!--// .item -->
+                      <div class="item"> <img src="../img/show-horses/mystic-rose-pass-the-buck-500-342x340.jpg" class="image">
+                        <h2><a href="../horse-detail.html">Mystic Rose Pass the Buck 500</a></h2>
+                        <p>2004 AHMA Western Champion - <br>
+                          Solid Color Stallions and Geldings</p>
+                      </div>
+                      <!--// .item -->
+                      <div class="item"> <img src="../img/show-horses/sierra-golds-american-treasure-342x256.jpg" class="image">
+                        <h2><a href="../horse-detail.html">Sierra Golds American Treasure</a></h2>
+                        <p>A true beauty!</p>
+                        <a class="more" href="../horse-detail.html">more</a> </div>
+                      <!--// .item -->
+                      <div class="item"> <img src="../img/show-horses/sierra-star-fire-gold-342x225.jpg" class="image">
+                        <h2><a href="../horse-detail.html">Sierra Star Fire Gold</a></h2>
+                        <p>2004 AHMA Western Champion - <br>
+                          Top 5 - Junior Mares</p>
+                      </div>
+                      <!--// .item -->
+                      <div class="item"> <img src="../img/show-horses/sierra-golds-ditamond-attraction-342x286.jpg" class="image">
+                        <h2><a href="../horse-detail.html">Sierra Golds Ditamond Attraction</a></h2>
+                        <p>Winning Supreme Halter Horse in 2009</p>
+                      </div>
+                      <!--// .item -->
+                      <div class="item"> <img src="../img/show-horses/sierras-dances-with-wind-342x276.jpg" class="image">
+                        <h2><a href="../horse-detail.html">Sierras Dances with Wind</a></h2>
+                        <p>2004 AHMA Western Champion Filly (28” and Under)</p>
+                      </div>
+                      <!--// .item -->
+                    <!-- TemplateEndEditable --></div> 
+                    <!--// .list -->
                 </div> <!--// .contentcol -->
             </div> <!--// .row-fluid -->
         </div> <!--// .container -->
@@ -147,29 +138,28 @@
             <div class="navi clearfix">
                 <select class="mobile_navi">
                     <option value="0">MENU</option>
-                    <option value="./about-us.html">About us</option>
-                    <option value="./training.html">- Training</option>
-                    <option value="./tikis-story.html">- Tiki's story</option>
-                    <option value="./our-special-animals.html">- Our special animals</option>
-                    <option value="./stallions.html">Stallions</option>
-                    <option value="./show-horses.html" selected>Show horses</option>
-                    <option value="./sale-horses.html">Sale horses</option>
-                    <option value="./stallions-colts.html">- Stallions & Colts</option>
-                    <option value="./mares-fillies.html">- Mares & Fillies</option>
-                    <option value="./geldings.html">- Geldings</option>
-                    <option value="./aussie-pups.html">Aussie pups</option>
-                    <option value="./phaesants.html">Phaesants</option>
-                    <option value="./pigeons.html">Pigeons</option>
-                    <option value="./judging.html">Judging</option>
-                    <option value="./news-events.html">News & Events</option>
-                    <option value="./news-feed.html">- News feed</option>
-                    <option value="./social-media.html">- Social media</option>
-                    <option value="./contact-us.html">Contact us</option>
-                    <option value="./links.html">- Links</option>
+                     
+                    <option value="../training.html">Training</option>
+                    <option value="../tikis-story.html">Tiki's story</option>
+                    <option value="../our-special-animals.html">Our special animals</option>
+                    <option value="../stallions.html">Stallions</option>
+                    <option value="../show-horses.html" selected>Show horses</option>
+                    <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
+                    <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
+                    <option value="../geldings.html">Sales - Geldings</option>
+                    <option value="../aussie-pups.html">Aussie pups</option>
+                    <option value="../phaesants.html">Phaesants</option>
+                    <option value="../pigeons.html">Pigeons</option>
+                    <option value="../judging.html">Judging</option>
+                     
+                    <option value="../news-feed.html">News feed</option>
+                    <option value="../social-media.html">Social media</option>
+                    <option value="../contact-us.html">Contact us</option>
+                            <option value="../links.html">Links</option>
                 </select>
                 <ul class="col1">
                     <li class="has_children">
-                        <a href="../about-us.html" title="About us"><span>About us</span></a>
+                        <span>About us</span>
                         <ul>
                             <li><a href="../training.html" title="Training">Training</a></li>
                             <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
@@ -181,7 +171,7 @@
                 </ul>
                 <ul class="col2">
                     <li class="has_children">
-                        <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
+                        <span>Sale horses</span>
                         <ul>
                             <li><a href="../stallions-colts.html" title="Stallions & Colts">Stallions & Colts</a></li>
                             <li><a href="../mares-fillies.html" title="Mares & Fillies">Mares & Fillies</a></li>
@@ -197,18 +187,16 @@
                 </ul>
                 <ul class="col4">
                     <li class="has_children">
-                        <a href="../news-events.html" title="News & events"><span>News & events</span></a>
+                        <span>News & events</span>
                         <ul>
                             <li><a href="../news-feed.html" title="News feed">News feed</a></li>
                             <li><a href="../social-media.html" title="Social media">Social media</a></li>
                         </ul>
                     </li>
-                    <li class="last has_children">
-                        <a href="../contact-us.html" title="Contact us"><span>Contact us</span></a>
-                        <ul>
-                            <li><a href="../links.html" title="Links">Links</a></li>
-                        </ul>
+                    <li>
+                        <a href="../contact-us.html" title="Contact us">Contact us</a>
                     </li>
+                    <li class="last"><a href="../links.html" title="Links">Links</a></li>
                 </ul>
             </div> <!--// .navi -->
             <div class="contacts">

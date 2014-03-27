@@ -156,7 +156,7 @@ var hju	= {
 			parent.append('<a class="'+config.class+' next" href="#2" title="Next page"><img src="img/s.gif"></a>');
 		}
 	},
-	synchronizeColumnsHeight:	function(){
+	/*synchronizeColumnsHeight:	function(){
 		$(document).imagesLoaded(function(){
 			if ($('body').data('synchronize-columns') == true)
 			{
@@ -174,7 +174,7 @@ var hju	= {
 				}
 			}
 		});
-	},
+	},*/
 	
 	init:	function(){
 		hju.mobileNavi();

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <!-- TemplateBeginEditable name="doctitle" -->
-    <title>Stallions - Sierra Miniature Horses</title>
+    <title>Contact Us - Sierra Miniature Horses</title>
     <!-- TemplateEndEditable -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
@@ -40,7 +40,7 @@
                             <option value="../training.html">Training</option>
                             <option value="../tikis-story.html">Tiki's story</option>
                             <option value="../our-special-animals.html">Our special animals</option>
-                            <option value="../stallions.html" selected>Stallions</option>
+                            <option value="../stallions.html">Stallions</option>
                             <option value="../show-horses.html">Show horses</option>
                             <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
                             <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
@@ -52,7 +52,7 @@
                              
                             <option value="../news-feed.html">News feed</option>
                             <option value="../social-media.html">Social media</option>
-                            <option value="../contact-us.html">Contact us</option>
+                            <option value="../contact-us.html" selected>Contact us</option>
                             <option value="../links.html">Links</option>
                         </select>
                     </div>
@@ -65,7 +65,7 @@
                                 <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
                             </ul>
                         </li>
-                        <li class="active"><a href="../stallions.html" title="Stallions">Stallions</a></li>
+                        <li><a href="../stallions.html" title="Stallions">Stallions</a></li>
                         <li><a href="../show-horses.html" title="Show horses">Show horses</a></li>
                         <li class="has_children">
                             <a href="../sale-horses.html" title="Sale horses"><span>Sale horses</span></a>
@@ -86,48 +86,16 @@
                                 <li><a href="../social-media.html" title="Social media">Social media</a></li>
                             </ul>
                         </li>
-                        <li>
+                        <li class="active">
                         <a href="../contact-us.html" title="Contact us">Contact us</a>
                     </li>
                     <li class="last"><a href="../links.html" title="Links">Links</a></li>
                     </ul>
                 </div> <!--// .leftcol -->
-                <div class="contentcol horses_list">
-                    <div class="list"><!-- TemplateBeginEditable name="list" -->
-                      <div class="item"> <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierras-double-destiny-takara-342x287.jpg"></a>
-                        <h2>Sierras Double Destiny Takara</h2>
-                        <p>Winning Supreme Champion in 2009</p>
-                        <a class="more" href="../horse-detail.html">more</a> </div>
-                      <!--// .item -->
-                      <div class="item"> <a class="image" href="../horse-detail.html"><img src="../img/show-horses/mystic-rose-pass-the-buck-500-342x340.jpg"></a>
-                        <h2>Mystic Rose Pass the Buck 500</h2>
-                        <p>2004 AHMA Western Champion - <br>
-                          Solid Color Stallions and Geldings</p>
-                      </div>
-                      <!--// .item -->
-                      <div class="item"> <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierra-golds-american-treasure-342x256.jpg"></a>
-                        <h2>Sierra Golds American Treasure</h2>
-                        <p>A true beauty!</p>
-                        <a class="more" href="../horse-detail.html">more</a> </div>
-                      <!--// .item -->
-                      <div class="item"> <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierra-star-fire-gold-342x225.jpg"></a>
-                        <h2>Sierra Star Fire Gold</h2>
-                        <p>2004 AHMA Western Champion - <br>
-                          Top 5 - Junior Mares</p>
-                      </div>
-                      <!--// .item -->
-                      <div class="item"> <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierra-golds-ditamond-attraction-342x286.jpg"></a>
-                        <h2>Sierra Golds Ditamond Attraction</h2>
-                        <p>Winning Supreme Halter Horse in 2009</p>
-                      </div>
-                      <!--// .item -->
-                      <div class="item"> <a class="image" href="../horse-detail.html"><img src="../img/show-horses/sierras-dances-with-wind-342x276.jpg"></a>
-                        <h2>Sierras Dances with Wind</h2>
-                        <p>2004 AHMA Western Champion Filly (28” and Under)</p>
-                      </div>
-                      <!--// .item -->
-                    <!-- TemplateEndEditable --></div> 
-                    <!--// .list -->
+                <div class="contentcol">
+                    <div class="text">
+                        <h1><!-- TemplateBeginEditable name="h1" -->Contact Us<!-- TemplateEndEditable --></h1>
+                    <!-- TemplateBeginEditable name="text" --><p>text</p><!-- TemplateEndEditable --> </div> <!--// .text -->
                 </div> <!--// .contentcol -->
             </div> <!--// .row-fluid -->
         </div> <!--// .container -->
@@ -142,7 +110,7 @@
                     <option value="../training.html">Training</option>
                     <option value="../tikis-story.html">Tiki's story</option>
                     <option value="../our-special-animals.html">Our special animals</option>
-                    <option value="../stallions.html" selected>Stallions</option>
+                    <option value="../stallions.html">Stallions</option>
                     <option value="../show-horses.html">Show horses</option>
                     <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
                     <option value="../mares-fillies.html">Sales - Mares & Fillies</option>
@@ -154,8 +122,8 @@
                      
                     <option value="../news-feed.html">News feed</option>
                     <option value="../social-media.html">Social media</option>
-                    <option value="../contact-us.html">Contact us</option>
-                            <option value="../links.html">Links</option>
+                    <option value="../contact-us.html" selected>Contact us</option>
+                    <option value="../links.html">Links</option>
                 </select>
                 <ul class="col1">
                     <li class="has_children">
@@ -209,9 +177,7 @@
     <script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/colorbox/jquery.colorbox-min.js"></script>
-    <script src="../js/masonry.pkgd.min.js"></script>
     <script src="../js/hju.js"></script>
-
     
   </body>
 </html>
