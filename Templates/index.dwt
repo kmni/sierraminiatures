@@ -52,7 +52,7 @@
                             <option value="../geldings.html">Sales - Geldings</option>
                             <option value="../aussie-pups.html">Aussie pups</option>
                             <option value="../phaesants.html">Phaesants</option>
-                            <option value="../pigeons.html">Pigeons</option>
+                            <option value="www.srclassic.com/">Pigeons</option>
                             <option value="../judging.html">Judging</option>
                              
                             <option value="../news-feed.html">News feed</option>
@@ -82,7 +82,7 @@
                         </li>
                         <li><a href="../aussie-pups.html" title="Aussie pups">Aussie pups</a></li>
                         <li><a href="../phaesants.html" title="Phaesants">Phaesants</a></li>
-                        <li><a href="../pigeons.html" title="Pigeons">Pigeons</a></li>
+                        <li><a href="http://www.srclassic.com" title="Pigeons">Pigeons</a></li>
                         <li><a href="../judging.html" title="Judging">Judging</a></li>
                         <li class="has_children">
                             <a href="../news-events.html" title="News & events"><span>News & events</span></a>
@@ -113,17 +113,17 @@
                         </div>
                     </div>
                     <div class="cycle-slideshow">
-                        <div class="slideshow"><!-- TemplateBeginEditable name="slideshow1" --> <img src="../img/gallery/horses/horse-01-154x154.jpg"> <img src="../img/gallery/horses/horse-02-154x154.jpg"> <img src="../img/gallery/horses/horse-03-154x154.jpg"> <img src="../img/gallery/horses/horse-04-154x154.jpg"><!-- TemplateEndEditable --><span>Horses</span>
-                        </div>
+                        <a href="../sale-horses.html"><div class="slideshow"><!-- TemplateBeginEditable name="slideshow1" --> <img src="../img/gallery/horses/horse-01-154x154.jpg"> <img src="../img/gallery/horses/horse-02-154x154.jpg"> <img src="../img/gallery/horses/horse-03-154x154.jpg"> <img src="../img/gallery/horses/horse-04-154x154.jpg"><!-- TemplateEndEditable --><span>Horses</span>
+                        </div></a>
 
-                        <div class="slideshow"><!-- TemplateBeginEditable name="slideshow2" --><img src="../img/gallery/dogs/dog-01-154x154.jpg"> <img src="../img/gallery/dogs/dog-02-154x154.jpg"> <img src="../img/gallery/dogs/dog-03-154x154.jpg"> <img src="../img/gallery/dogs/dog-04-154x154.jpg"><!-- TemplateEndEditable --><span>Aussie pups</span>
-                      </div>
+                        <a href="../aussie-pups.html"><div class="slideshow"><!-- TemplateBeginEditable name="slideshow2" --><img src="../img/gallery/dogs/dog-01-154x154.jpg"> <img src="../img/gallery/dogs/dog-02-154x154.jpg"> <img src="../img/gallery/dogs/dog-03-154x154.jpg"> <img src="../img/gallery/dogs/dog-04-154x154.jpg"><!-- TemplateEndEditable --><span>Aussie pups</span>
+                      </div></a>
 
-                        <div class="slideshow"><!-- TemplateBeginEditable name="slideshow3" --><img src="../img/gallery/phaesants/phaesant-01-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-02-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-03-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-04-154x154.jpg"><!-- TemplateEndEditable --><span>Phaesants</span>
-                      </div>
+                        <a href="../pheasants.html"><div class="slideshow"><!-- TemplateBeginEditable name="slideshow3" --><img src="../img/gallery/phaesants/phaesant-01-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-02-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-03-154x154.jpg"> <img src="../img/gallery/phaesants/phaesant-04-154x154.jpg"><!-- TemplateEndEditable --><span>Pheasants</span>
+                      </div></a>
 
-                        <div class="slideshow"><!-- TemplateBeginEditable name="slideshow4" --> <img src="../img/gallery/pigeons/pigeon-01-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-02-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-03-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-04-154x154.jpg"><!-- TemplateEndEditable --><span>Racing pigeons</span>
-                        </div>
+                        <a href="http://www.srclassic.com/"><div class="slideshow"><!-- TemplateBeginEditable name="slideshow4" --> <img src="../img/gallery/pigeons/pigeon-01-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-02-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-03-154x154.jpg"> <img src="../img/gallery/pigeons/pigeon-04-154x154.jpg"><!-- TemplateEndEditable --><span>Racing pigeons</span>
+                        </div></a>
                     </div> <!--// .cycle-slideshow -->
                 </div> <!--// .contentcol -->
             </div> <!--// .row-fluid -->
@@ -146,7 +146,7 @@
                     <option value="../geldings.html">Sales - Geldings</option>
                     <option value="../aussie-pups.html">Aussie pups</option>
                     <option value="../phaesants.html">Phaesants</option>
-                    <option value="../pigeons.html">Pigeons</option>
+                    <option value="http://www.srclassic.com/">Pigeons</option>
                     <option value="../judging.html">Judging</option>
                      
                     <option value="../news-feed.html">News feed</option>
@@ -179,7 +179,7 @@
                 <ul class="col3">
                     <li><a href="../aussie-pups.html" title="Aussie pups">Aussie pups</a></li>
                     <li><a href="../phaesants.html" title="Phaesants">Phaesants</a></li>
-                    <li><a href="../pigeons.html" title="Pigeons">Pigeons</a></li>
+                    <li><a href="http://www.srclassic.com/" title="Pigeons">Pigeons</a></li>
                     <li><a href="../judging.html" title="Judging">Judging</a></li>
                 </ul>
                 <ul class="col4">

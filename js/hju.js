@@ -156,25 +156,25 @@ var hju	= {
 			parent.append('<a class="'+config.class+' next" href="#2" title="Next page"><img src="img/s.gif"></a>');
 		}
 	},
-	/*synchronizeColumnsHeight:	function(){
-		$(document).imagesLoaded(function(){
-			if ($('body').data('synchronize-columns') == true)
-			{
-				var	leftcol				= $('.leftcol'),
-					contentcol			= $('.contentcol'),
-					leftcol_height		= leftcol.height(),
-					contentcol_height	= contentcol.height(),			
-					diff_height			= leftcol_height - contentcol_height;
-				// console.log('leftcol height: '+leftcol_height);
-				// console.log('contentcol height: '+contentcol);
-				// console.log('height diff leftcol-contencol: '+diff_height);
-				if (diff_height < 0)
-				{
-					leftcol.css({'height': (leftcol_height+Math.abs(diff_height))+'px'});
-				}
-			}
-		});
-	},*/
+	//synchronizeColumnsHeight:	function(){
+//		$(document).imagesLoaded(function(){
+//			if ($('body').data('synchronize-columns') == true)
+//			{
+//				var	leftcol				= $('.leftcol'),
+//					contentcol			= $('.contentcol'),
+//					leftcol_height		= leftcol.height(),
+//					contentcol_height	= contentcol.height(),			
+//					diff_height			= leftcol_height - contentcol_height;
+//				// console.log('leftcol height: '+leftcol_height);
+//				// console.log('contentcol height: '+contentcol);
+//				// console.log('height diff leftcol-contencol: '+diff_height);
+//				if (diff_height < 0)
+//				{
+//					leftcol.css({'height': (leftcol_height+Math.abs(diff_height))+'px'});
+//				}
+//			}
+//		});
+//	},
 	
 	init:	function(){
 		hju.mobileNavi();

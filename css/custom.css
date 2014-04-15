@@ -11,6 +11,7 @@ background:#2d1402;
 
 html {padding: 0; margin: 0;}
 body {font-size: 16px; color: #3e392f; font-family: 'Open Sans', Arial, Verdana, sans-serif; background: #232B34 url(../img/bg_body.jpg) fixed no-repeat; background-size: cover; background-attachment: fixed; padding: 0; margin: 0;}
+iframe {width:90%; min-height:400px; margin:0 auto; display:block;}
 body#news {background-image: url(../img/bg_body_news.jpg);}
 
 a:focus {outline: none;}
@@ -101,6 +102,7 @@ img.span_bottom {margin-bottom: 25px!important;}
 .text p {text-align: left;}
 .text img,
 .text .span_bottom {float: none; display: inline; width: auto; max-width: 100%; height: auto; margin: 0 auto 25px;}
+.text ul {list-style-type:none;}
 
 #home_carousel_container {padding: 0; margin: 0;}
 #home_carousel {padding: 0; margin: 0;}
@@ -140,11 +142,11 @@ img.span_bottom {margin-bottom: 25px!important;}
 .horses_list .list .item:nth-child(2n) {float: right;}
 .horses_list .list .image {position: relative; display: block; max-width: 100%; overflow: hidden; margin-bottom: 10px;}
 .horses_list .list .noimage {display: block; min-height: 256px; background: url(../img/sale-horses-placeholder-342x256.jpg) 0 center no-repeat; background-size: contain; margin-bottom: 10px;}
-.horses_list .list .image img {display: block; max-width: 100%; height: auto;}
+.horses_list .list .image img {display: block; width: 100%; height: auto;}
 .horses_list .list .image img.flag {position: absolute; bottom: 10px; right: 15px;}
 .horses_list .list .slideshow span {position: absolute; bottom: 5px; right: 5px; z-index: 10000; display: block; width: 39px; height: 29px; background: url(../img/icon-slideshow.png) 0 0 no-repeat;}
 .horses_list .list .item h2,
-.horses_list .list .item h3 {font: 600 20px/24px 'Open Sans', sans-serif; color: #4c2406; text-transform: none; padding: 0 5px; margin: 0 0 5px;}
+.horses_list .list .item h3 {font: 600 18px/22px 'Open Sans', sans-serif; color: #4c2406; text-transform: none; padding: 0 5px; margin: 0 0 5px;}
 .horses_list .list .item h2 a,
 .horses_list .list .item h3 a {color: #4c2406; text-decoration: none;}
 .horses_list .list .item h2 a:hover,
