@@ -14,6 +14,11 @@
     <link href="../css/bootstrap-responsive.css" rel="stylesheet">
     <link href="../js/colorbox/colorbox.css" rel="stylesheet">
     <link href="../css/custom.css" rel="stylesheet">
+    <link href="../css/elastislide.css" rel="stylesheet">
+    <link href="../css/gallery.css" rel="stylesheet">
+    <noscript>
+        <style>.es-carousel ul {display:block;}</style>
+    </noscript>
     <!-- TemplateBeginEditable name="head" -->
     <!-- TemplateEndEditable -->
 </head>
@@ -40,6 +45,7 @@
                             <option value="../training.html">Training</option>
                             <option value="../tikis-story.html">Tiki's story</option>
                             <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../fun-on-the-ranch.html">Fun on the Ranch</option>
                             <option value="../stallions.html">Stallions</option>
                             <option value="../show-horses.html">Show horses</option>
                             <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
@@ -51,7 +57,7 @@
                             <option value="../judging.html">Judging</option>
                              
                             <option value="../news-feed.html">News feed</option>
-                            <option value="../social-media.html">Social media</option>
+                            <option value="../facebook.html">Facebook</option>
                             <option value="../contact-us.html">Contact us</option>
                             <option value="../links.html">Links</option>
                         </select>
@@ -63,6 +69,7 @@
                                 <li><a href="../training.html" title="Training">Training</a></li>
                                 <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
                                 <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
+                            <li><a href="../fun-on-the-ranch.html" title="Fun on the Ranch">Fun on the Ranch</a></li>
                             </ul>
                         </li>
                         <li><a href="../stallions.html" title="Stallions">Stallions</a></li>
@@ -128,6 +135,7 @@
                     <option value="../training.html">Training</option>
                     <option value="../tikis-story.html">Tiki's story</option>
                     <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../fun-on-the-ranch.html">Fun on the Ranch</option>
                     <option value="../stallions.html">Stallions</option>
                     <option value="../show-horses.html">Show horses</option>
                     <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
@@ -139,7 +147,7 @@
                     <option value="../judging.html">Judging</option>
                      
                     <option value="../news-feed.html">News feed</option>
-                    <option value="../social-media.html">Social media</option>
+                    <option value="../facebook.html">Facebook</option>
                     <option value="../contact-us.html">Contact us</option>
                             <option value="../links.html">Links</option>
                 </select>
@@ -150,6 +158,7 @@
                             <li><a href="../training.html" title="Training">Training</a></li>
                             <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
                             <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
+                            <li><a href="../fun-on-the-ranch.html" title="Fun on the Ranch">Fun on the Ranch</a></li>
                         </ul>
                     </li>
                     <li><a href="../stallions.html" title="Stallions">Stallions</a></li>

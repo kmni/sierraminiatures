@@ -55,6 +55,8 @@ $(function() {
 	$items				= $esCarousel.find('ul > li'),
 	// total number of items
 	itemsCount			= $items.length;
+	autoStart			= $rgGallery.data('autostart') == true ? true : false,
+	timeOut				= $rgGallery.data('timeout') ? $rgGallery.attr('data-timeout') : 5000,
 	
 	Gallery				= (function() {
 			// index of the current item
@@ -62,7 +64,7 @@ $(function() {
 			// mode : carousel || fullview
 			mode 			= $rgGallery.attr('data-mode') ? $rgGallery.attr('data-mode') : 'carousel',
 			// control if one image is being loaded
-			anim			= false,
+			anim			= true,
 			init			= function() {
 				
 				// (not necessary) preloading the images here...
@@ -103,6 +105,10 @@ $(function() {
 				
 				// set elastislide's current to current
 				$esCarousel.elastislide( 'setCurrent', current );
+				if (autoStart)
+				{
+					interval	= setInterval(function(){_navigate('right');}, timeOut);
+				}
 				
 			},
 			_addViewModes	= function() {
@@ -199,7 +205,11 @@ $(function() {
 					else
 						--current;
 				}
-				
+				if (autoStart)
+				{
+					clearInterval(interval);
+					interval	= setInterval(function(){_navigate('right');}, timeOut);
+				}
 				_showImage( $items.eq( current ) );
 				
 			},
@@ -217,8 +227,21 @@ $(function() {
 					title		= $thumb.data('description');
 				
 				$('<img/>').load( function() {
-					
-					$rgGallery.find('div.rg-image').empty().append('<img src="' + largesrc + '"/>');
+					if ($rgGallery.find('div.rg-image img').length > 0)
+					{
+						var img	= $rgGallery.find('div.rg-image img');
+					 	img.fadeOut(300, function(){
+							img.attr('src', largesrc).fadeIn(300);
+					 	});
+					 	/*
+					 	setTimeout(function(){
+					 		img.attr('src', largesrc).fadeIn(300);
+					 		
+					 	}, 350);
+						*/
+					 }
+					 else
+					 	$rgGallery.find('div.rg-image').empty().append('<img src="' + largesrc + '"/>');
 					
 					if( title )
 						$rgGallery.find('div.rg-caption').show().children('p').empty().text( title );

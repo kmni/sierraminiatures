@@ -14,6 +14,11 @@
     <link href="../css/bootstrap-responsive.css" rel="stylesheet">
     <link href="../js/colorbox/colorbox.css" rel="stylesheet">
     <link href="../css/custom.css" rel="stylesheet">
+    <link href="../css/elastislide.css" rel="stylesheet">
+    <link href="../css/gallery.css" rel="stylesheet">
+    <noscript>
+        <style>.es-carousel ul {display:block;}</style>
+    </noscript>
     <!-- TemplateBeginEditable name="head" -->
     <!-- TemplateEndEditable -->
 </head>
@@ -40,6 +45,7 @@
                             <option value="../training.html">Training</option>
                             <option value="../tikis-story.html">Tiki's story</option>
                             <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../fun-on-the-ranch.html">Fun on the Ranch</option>
                             <option value="../stallions.html">Stallions</option>
                             <option value="../show-horses.html">Show horses</option>
                             <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
@@ -51,7 +57,7 @@
                             <option value="../judging.html" selected>Judging</option>
                              
                             <option value="../news-feed.html">News feed</option>
-                            <option value="../social-media.html">Social media</option>
+                            <option value="../facebook.html">Facebook</option>
                             <option value="../contact-us.html">Contact us</option>
                             <option value="../links.html">Links</option>
                         </select>
@@ -63,6 +69,7 @@
                                 <li><a href="../training.html" title="Training">Training</a></li>
                                 <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
                                 <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
+                            <li><a href="../fun-on-the-ranch.html" title="Fun on the Ranch">Fun on the Ranch</a></li>
                             </ul>
                         </li>
                         <li><a href="../stallions.html" title="Stallions">Stallions</a></li>
@@ -93,7 +100,30 @@
                     </ul>
                 </div> <!--// .leftcol -->
                 <div class="contentcol">
-                    <div class="text"><!-- TemplateBeginEditable name="banner" --><img src="../img/tiki/tiki-01-400x258.jpg" alt="Tiki" width="400" height="258" class="span_bottom"><!-- TemplateEndEditable -->
+                    <div class="text">
+                        <!-- InstanceBeginEditable name="slideshow" -->
+                        <div id="rg-gallery" class="rg-gallery" data-autostart="true" data-timeout="3000">
+                            <div class="rg-thumbs">
+                                <!-- Elastislide Carousel Thumbnail Viewer -->
+                                <div class="es-carousel-wrapper">
+                                    <div class="es-nav">
+                                        <span class="es-nav-prev">Previous</span>
+                                        <span class="es-nav-next">Next</span>
+                                    </div>
+                                    <div class="es-carousel">
+                                        <ul>
+                                            <li><a href="#"><img src="../img/judging/judging-01.jpg" data-large="../img/judging/judging-01.jpg" alt="image01" data-description="" /></a></li>
+                                            <li><a href="#"><img src="../img/judging/judging-02.jpg" data-large="../img/judging/judging-02.jpg" alt="image02" data-description="" /></a></li>
+                                            <li><a href="#"><img src="../img/judging/judging-03.jpg" data-large="../img/judging/judging-03.jpg" alt="image03" data-description="" /></a></li>
+                                            <li><a href="#"><img src="../img/judging/judging-04.jpg" data-large="../img/judging/judging-04.jpg" alt="image04" data-description="" /></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- End Elastislide Carousel Thumbnail Viewer -->
+                            </div><!-- rg-thumbs -->
+                        </div><!-- rg-gallery -->
+                        <!-- InstanceEndEditable -->
+
                     <h1><!-- TemplateBeginEditable name="h1" -->Judging<!-- TemplateEndEditable --></h1>
                     <!-- TemplateBeginEditable name="text" -->
                     <p>It was Father's Day June 1992. I was heading in from the horse's pasture when I saw the dust rising from the truck's tires. Steve was coming down the road faster than normal. I hurried up the drive to meet him. As the truck engulfed in the cloud of dust neared, I could see something in the front seat with Steve. He was holding it in his arms but I couldn't quite make it out. It couldn't be a new puppy, could it? I ran to the truck to see what the surprise was. As he rolled to a stop my heart began to pound. I jumped up on to the running board and peered in to the window. I couldn't believe my eyes. In Steve's arms was the most beautiful creature I had ever seen. It was a very tiny Fawn, full of spots.</p>
@@ -128,6 +158,7 @@
                     <option value="../training.html">Training</option>
                     <option value="../tikis-story.html">Tiki's story</option>
                     <option value="../our-special-animals.html">Our special animals</option>
+                            <option value="../fun-on-the-ranch.html">Fun on the Ranch</option>
                     <option value="../stallions.html">Stallions</option>
                     <option value="../show-horses.html">Show horses</option>
                     <option value="../stallions-colts.html">Sales - Stallions & Colts</option>
@@ -139,7 +170,7 @@
                     <option value="../judging.html" selected>Judging</option>
                      
                     <option value="../news-feed.html">News feed</option>
-                    <option value="../social-media.html">Social media</option>
+                    <option value="../facebook.html">Facebook</option>
                     <option value="../contact-us.html">Contact us</option>
                             <option value="../links.html">Links</option>
                 </select>
@@ -150,6 +181,7 @@
                             <li><a href="../training.html" title="Training">Training</a></li>
                             <li><a href="../tikis-story.html" title="Tiki's story">Tiki's story</a></li>
                             <li><a href="../our-special-animals.html" title="Our special animals">Our special animals</a></li>
+                            <li><a href="../fun-on-the-ranch.html" title="Fun on the Ranch">Fun on the Ranch</a></li>
                         </ul>
                     </li>
                     <li><a href="../stallions.html" title="Stallions">Stallions</a></li>
@@ -193,11 +225,30 @@
     </div>
 
     <script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/colorbox/jquery.colorbox-min.js"></script>
-    <script src="js/masonry.pkgd.min.js"></script>
-    <script src="js/jquery.cycle2.min.js"></script>
-    <script src="js/hju.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/colorbox/jquery.colorbox-min.js"></script>
+    <script src="../js/jquery.tmpl.min.js"></script>
+    <script src="../js/jquery.easing.1.3.js"></script>
+    <script src="../js/jquery.elastislide.js"></script>
+    <script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">    
+        <div class="rg-image-wrapper">
+            <div class="rg-image"></div>
+            <div class="rg-loading"></div>
+            <div class="rg-caption-wrapper">
+                <div class="rg-caption" style="display:none;">
+                    <p></p>
+                </div>
+            </div>
+            {{if itemsCount > 1}}
+                <div class="rg-image-nav">
+                    <a href="#" class="rg-image-nav-prev">Previous Image</a>
+                    <a href="#" class="rg-image-nav-next">Next Image</a>
+                </div>
+            {{/if}}
+        </div>
+    </script>
+    <script src="../js/gallery.js"></script>
+    <script src="../js/hju.js"></script>
     
   </body>
 </html>
