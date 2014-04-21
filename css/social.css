@@ -1,11 +1,11 @@
 ul#facebook {list-style-type: none; padding: 0; margin: 0;}
-#facebook li {word-wrap: break-word; display: block; width: 49%; background: #302b22; border-radius: 3px; box-shadow: 1px 2px 2px -1px #888; padding: 0; margin-bottom: 20px;}
+#facebook li {word-wrap: break-word; display: block; width: 49%; background: url(../img/bg_leftcol.png) 0 0 repeat; box-shadow: 1px 2px 2px -1px #888; padding: 0; margin-bottom: 20px;}
 #facebook li a {color: #098323; text-decoration: underline;}
 #facebook li a:hover {text-decoration: none;}
-#facebook li .content {font: normal 16px/20px 'Open Sans', sans-serif; color: #3e392f; background: #b9ae99; border-radius: 3px; padding: 4px 4px 14px 4px; margin: 0;}
+#facebook li .content {font: normal 16px/20px 'Open Sans', sans-serif; color: url(../img/bg_contentcol.png) 0 0 repeat; background: #b9ae99; padding: 4px 4px 14px 4px; margin: 0;}
 #facebook li .content p {padding: 16px 18px 0 18px; margin: 0;}
 #facebook li .content a {color: #893A06;}
-#facebook li div.footer {font: bold 14px/18px 'Open Sans', sans-serif; color: #fff; padding: 6px 10px 8px 22px;}
+#facebook li div.footer {font: normal 12px/16px 'Open Sans', sans-serif; color: #fff; padding: 6px 10px 8px 22px; text-transform: uppercase;}
 #facebook li div.footer a.author {color: #fff; text-decoration: underline; margin: 0;}
 #facebook li div.footer abbr {color: #fff; padding: 0; margin: 0;}
 #facebook li a.image {display: block; text-align: center; text-decoration: none; margin: 0 10px 0 0;}
