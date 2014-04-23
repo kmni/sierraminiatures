@@ -8,6 +8,7 @@
 }
 .rg-image {
 	position:relative;
+	min-height: 300px;
 	text-align:center;
 	line-height:0px;
 	padding: 0 0 8px;
@@ -15,8 +16,9 @@
 }
 .homepage .rg-image {padding: 0;}
 .rg-image img {
-	max-height:100%;
-	max-width:100%;
+	width: auto;
+	max-height: 300px;
+	max-width:	100%;
 	-webkit-backface-visibility: hidden;
 	-moz-backface-visibility: hidden;
 	-o-backface-visibility: hidden;
